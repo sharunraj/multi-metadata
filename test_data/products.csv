@@ -1,0 +1,101 @@
+product_id,product_name,description,category,unit_price,sku,launch_date
+10000001,Eco-Friendly Bamboo Toothbrush,A biodegradable toothbrush made from sustainably sourced bamboo.,Health & Personal Care,3.99,BAMBOO-TOOTH-01,2023-01-10
+10000002,Smart LED Light Bulb,Wi-Fi enabled LED light bulb with adjustable brightness and color.,Electronics,15.49,LED-SMART-02,2022-11-15
+10000003,Organic Cotton T-Shirt,Soft and breathable t-shirt made from 100% organic cotton.,Clothing,24.99,COTTON-TSHIRT-03,2023-03-20
+10000004,Noise Cancelling Headphones,Over-ear headphones with active noise cancellation technology.,Electronics,89.99,HEADPHONES-NC-04,2023-02-05
+10000005,Stainless Steel Water Bottle,Insulated stainless steel bottle that keeps drinks cold or hot for hours.,Kitchen & Dining,18.75,STEEL-BOTTLE-05,2022-12-01
+10000006,Portable Bluetooth Speaker,Compact speaker with high-quality sound and Bluetooth connectivity.,Electronics,39.99,SPEAKER-BT-06,2023-01-25
+10000007,Ergonomic Office Chair,Comfortable office chair with adjustable height and lumbar support.,Furniture,129.99,CHAIR-ERGO-07,2022-10-20
+10000008,Wireless Mouse,Ergonomic wireless mouse with adjustable DPI settings.,Computers,25.50,MOUSE-WL-08,2023-03-15
+10000009,Vegan Protein Powder,Plant-based protein powder suitable for vegans and vegetarians.,Health & Personal Care,29.99,PROTEIN-VEGAN-09,2023-02-12
+10000010,Electric Kettle,Fast boiling electric kettle with automatic shut-off feature.,Kitchen & Dining,34.95,KETTLE-ELECTRIC-10,2022-11-22
+10000011,Memory Foam Pillow,Contour memory foam pillow for optimal neck support and comfort.,Bedding,45.00,PILLOW-MEMFOAM-11,2023-01-30
+10000012,Stainless Steel Cookware Set,10-piece stainless steel cookware set for all your cooking needs.,Kitchen & Dining,199.99,COOKWARE-STEEL-12,2023-02-18
+10000013,Yoga Mat,Non-slip yoga mat with extra cushioning for comfort and support.,Sports & Outdoors,30.00,YOGAMAT-13,2023-03-05
+10000014,Digital Alarm Clock,LED display alarm clock with dual alarms and snooze function.,Home,19.99,CLOCK-DIGITAL-14,2022-12-15
+10000015,Running Shoes,Lightweight and breathable running shoes for enhanced performance.,Footwear,65.00,SHOES-RUN-15,2023-03-10
+10000016,Portable Charger,High-capacity portable charger for charging devices on the go.,Electronics,22.49,CHARGER-PORT-16,2023-01-12
+10000017,Wireless Earbuds,True wireless earbuds with noise isolation and long battery life.,Electronics,59.99,EARBUDS-WL-17,2023-02-28
+10000018,Adjustable Dumbbells,Space-saving adjustable dumbbells for versatile strength training.,Sports & Outdoors,150.00,DUMBBELLS-ADJ-18,2023-02-01
+10000019,Waterproof Backpack,Durable and waterproof backpack for outdoor adventures.,Sports & Outdoors,75.00,BACKPACK-WP-19,2023-01-05
+10000020,Ceramic Vase,Elegant ceramic vase for home decoration or floral arrangements.,Home,40.00,VASE-CERAMIC-20,2022-11-10
+10000021,Gaming Laptop,High-performance gaming laptop with dedicated graphics and SSD.,Computers,1199.99,LAPTOP-GAMING-21,2023-03-25
+10000022,Electric Toothbrush,Rechargeable electric toothbrush with multiple cleaning modes.,Health & Personal Care,49.99,TOOTHBRUSH-EL-22,2023-02-22
+10000023,Smart Thermostat,Wi-Fi enabled thermostat for energy-efficient home temperature control.,Home,199.00,THERMOSTAT-SMART-23,2023-01-18
+10000024,Pet Hair Vacuum Cleaner,Powerful vacuum cleaner designed to tackle pet hair and dander.,Home,249.99,VACUUM-PETHAIR-24,2022-10-30
+10000025,Smart Watch,Feature-rich smart watch with fitness tracking and notifications.,Electronics,199.99,WATCH-SMART-25,2023-03-01
+10000001,Pro-Gamer Mouse,High precision gaming mouse with customizable DPI settings.,Electronics,49.99,PGM12345,2022-03-15
+10000002,UltraComfort Office Chair,Ergonomic office chair with lumbar support and adjustable height.,Furniture,199.99,UCOC67890,2021-11-01
+10000003,SmartHome Thermostat,Wi-Fi enabled smart thermostat with energy-saving features.,Home Appliances,129.99,SHT09876,2023-05-10
+10000004,Eco-Friendly Water Bottle,Reusable water bottle made from sustainable materials.,Outdoor,15.99,EFWB54321,2020-07-20
+10000005,Wireless Earbuds,Noise-cancelling wireless earbuds with long battery life.,Electronics,79.99,WEB23456,2022-01-25
+10000006,Organic Cotton T-Shirt,Soft and breathable t-shirt made from 100% organic cotton.,Apparel,25.99,OCTS11223,2019-06-15
+10000007,Portable Camping Stove,Compact and lightweight camping stove for outdoor adventures.,Outdoor,45.99,PCS33445,2021-09-05
+10000008,Fitness Tracker Pro,Advanced fitness tracker with heart rate monitoring and GPS.,Electronics,99.99,FTP66789,2023-04-18
+10000009,Luxury Scented Candle,Hand-poured scented candle with a long-lasting fragrance.,Home Decor,29.99,LSC98765,2020-12-10
+10000010,High-Performance Blender,Professional-grade blender with multiple speed settings.,Home Appliances,149.99,HPB45678,2022-08-25
+10000011,Durable Hiking Backpack,Water-resistant hiking backpack with multiple compartments.,Outdoor,89.99,DHB22334,2019-03-30
+10000012,Smart LED Bulb,Energy-efficient LED bulb with remote control via app.,Home Appliances,19.99,SLB99432,2023-02-12
+10000013,Premium Yoga Mat,Non-slip yoga mat with extra cushioning for comfort.,Fitness,39.99,PYM77654,2021-07-01
+10000014,Noise-Cancelling Headphones,High-fidelity headphones with active noise cancellation.,Electronics,199.99,NCH33221,2022-11-11
+10000015,Stainless Steel Cookware Set,Durable cookware set with non-stick coating.,Kitchen,299.99,SSCS55432,2020-05-16
+10000016,Smartphone Stand,Adjustable smartphone stand for hands-free operation.,Accessories,12.99,SS12345,2021-02-28
+10000017,Pet-Friendly Sofa Cover,"Protective sofa cover made from durable, pet-friendly material.",Home Decor,45.99,PFSC67890,2023-06-07
+10000018,Electric Toothbrush,Rechargeable electric toothbrush with multiple cleaning modes.,Personal Care,59.99,ETB12367,2022-10-19
+10000019,Compact Air Purifier,Portable air purifier with HEPA filter for clean air.,Home Appliances,79.99,CAP77689,2021-08-22
+10000020,Leather Wallet,Stylish leather wallet with multiple card slots and compartments.,Accessories,39.99,LW55432,2019-04-04
+10000021,Bluetooth Speaker,Portable speaker with high-quality sound and Bluetooth connectivity.,Electronics,69.99,BS99876,2023-01-15
+10000022,Solar-Powered Lantern,Eco-friendly lantern powered by solar energy.,Outdoor,24.99,SPL43210,2020-06-21
+10000023,Memory Foam Pillow,Comfortable pillow with memory foam for neck support.,Home Decor,29.99,MFP33456,2021-11-29
+10000024,Wireless Charging Pad,Fast wireless charging pad compatible with multiple devices.,Electronics,39.99,WCP12345,2022-09-17
+10000025,Stainless Steel Water Bottle,Durable water bottle with double-wall insulation.,Outdoor,21.99,SSWB67890,2019-12-08
+10000001,Pro-Gamer Mouse,High-precision gaming mouse with customizable buttons.,Electronics,59.99,PROGAM-001,2022-03-15
+10000002,Eco-Friendly Water Bottle,Reusable water bottle made from recycled materials.,Home & Kitchen,24.95,ECOBOT-002,2021-11-10
+10000003,Wireless Earbuds,Compact wireless earbuds with noise-cancellation feature.,Electronics,89.99,WIREBU-003,2023-01-20
+10000004,Yoga Mat,Durable yoga mat with non-slip surface.,Sports & Outdoors,30.00,YOGMAT-004,2020-06-05
+10000005,Smart LED Bulb,Energy-efficient LED bulb with smart home integration.,Home Improvement,19.99,SMTBUL-005,2019-09-15
+10000006,Bluetooth Speaker,Portable Bluetooth speaker with powerful bass.,Electronics,45.50,BLUSPK-006,2021-12-01
+10000007,Office Desk Chair,Ergonomic office chair with adjustable height and lumbar support.,Furniture,129.99,OFFCHA-007,2020-02-25
+10000008,Stainless Steel Cookware Set,10-piece set of stainless steel pots and pans.,Home & Kitchen,199.95,STACOO-008,2022-07-18
+10000009,Electric Kettle,Rapid-boil electric kettle with auto shut-off.,Home & Kitchen,39.95,ELEKET-009,2021-04-10
+10000010,Compact Treadmill,Foldable treadmill with multiple speed settings.,Sports & Outdoors,499.00,COMTDM-010,2019-08-30
+10000011,Smartphone Stand,Adjustable stand for smartphones and tablets.,Electronics,15.99,SMTSTD-011,2020-11-22
+10000012,Noise-Cancelling Headphones,Over-ear headphones with active noise cancellation.,Electronics,179.95,NOCHDP-012,2023-02-14
+10000013,Digital Alarm Clock,LED display alarm clock with snooze function.,Home & Kitchen,25.00,DIGCLK-013,2018-07-13
+10000014,Cordless Vacuum Cleaner,Lightweight cordless vacuum with powerful suction.,Home & Kitchen,150.00,CORVAC-014,2023-05-21
+10000015,Gaming Laptop,High-performance laptop with dedicated graphics card.,Electronics,1299.99,GAMLAP-015,2022-10-05
+10000016,Electric Toothbrush,Rechargeable electric toothbrush with multiple modes.,Health & Personal Care,69.99,ELETOB-016,2020-03-29
+10000017,Camping Tent,4-person camping tent with waterproof rainfly.,Sports & Outdoors,89.99,CAMTEN-017,2019-05-15
+10000018,Wireless Charger,Fast charging wireless pad for smartphones.,Electronics,29.99,WIRECH-018,2021-01-07
+10000019,Fitness Tracker,Water-resistant fitness tracker with heart rate monitor.,Sports & Outdoors,99.95,FITTRK-019,2018-09-18
+10000020,Instant Pot,Multi-use programmable pressure cooker.,Home & Kitchen,119.00,INSTPT-020,2022-12-12
+10000021,Smart Thermostat,Wi-Fi enabled thermostat with mobile app control.,Home Improvement,199.99,SMTTHR-021,2019-11-25
+10000022,Robot Vacuum,Automatic vacuum cleaner with smart mapping.,Home & Kitchen,399.99,ROBTVA-022,2020-04-16
+10000023,Electric Scooter,Foldable electric scooter with long battery life.,Sports & Outdoors,499.99,ELECSC-023,2021-08-30
+10000024,Smart Watch,Wearable smart watch with fitness tracking features.,Electronics,199.95,SMTWCH-024,2023-03-01
+10000025,Portable Power Bank,High-capacity power bank with dual USB ports.,Electronics,39.95,PORPBK-025,2020-07-10
+10000001,Pro-Gamer Mouse,High precision gaming mouse with customizable RGB lighting.,Electronics,59.99,ELEC-PG-001,2023-03-15
+10000002,Eco-Friendly Water Bottle,Reusable water bottle made from sustainable materials.,Home & Kitchen,19.99,HOME-EFWB-002,2021-08-20
+10000003,Wireless Bluetooth Headphones,Noise-cancelling headphones with 20 hours playtime.,Electronics,129.95,ELEC-WBH-003,2022-11-05
+10000004,Organic Cotton T-Shirt,Soft and comfortable t-shirt made with organic cotton.,Apparel,29.99,APP-OCT-004,2020-05-10
+10000005,Smart LED Bulb,Energy-efficient LED bulb with smart home integration.,Home & Kitchen,14.49,HOME-SLB-005,2021-09-30
+10000006,4K Ultra HD TV,55-inch 4K television with HDR and smart features.,Electronics,599.99,ELEC-UHDTV-006,2023-02-14
+10000007,Portable Bluetooth Speaker,Waterproof speaker with 12-hour battery life.,Electronics,39.95,ELEC-PBS-007,2022-07-25
+10000008,Stainless Steel Cookware Set,10-piece set with non-stick coating.,Home & Kitchen,149.99,HOME-SSC-008,2021-03-12
+10000009,Ergonomic Office Chair,Comfortable office chair with adjustable lumbar support.,Furniture,199.99,FURN-EOC-009,2020-11-18
+10000010,Fitness Tracker,Smart fitness band with heart rate monitor.,Electronics,79.99,ELEC-FT-010,2022-05-22
+10000011,Bamboo Cutting Board,Durable bamboo cutting board with juice groove.,Home & Kitchen,24.99,HOME-BCB-011,2020-09-05
+10000012,Electric Toothbrush,Rechargeable toothbrush with multiple cleaning modes.,Health & Personal Care,49.99,HEALTH-ET-012,2023-01-10
+10000013,Wireless Charging Pad,Fast wireless charging pad for compatible devices.,Electronics,29.95,ELEC-WCP-013,2021-06-17
+10000014,Noise Cancelling Earbuds,Compact earbuds with active noise cancellation.,Electronics,89.99,ELEC-NCE-014,2022-10-01
+10000015,Smart Thermostat,Programmable thermostat that learns your preferences.,Home & Kitchen,199.99,HOME-ST-015,2021-02-28
+10000016,Yoga Mat,Eco-friendly yoga mat with non-slip surface.,Sports & Outdoors,39.99,SPORTS-YM-016,2020-07-15
+10000017,Digital Camera,Compact digital camera with 20MP sensor.,Electronics,299.99,ELEC-DC-017,2023-04-22
+10000018,Espresso Machine,Professional-grade espresso machine for home use.,Home & Kitchen,249.99,HOME-EM-018,2021-11-14
+10000019,Inflatable Kayak,Durable two-person kayak with easy setup.,Sports & Outdoors,389.99,SPORTS-IK-019,2022-03-07
+10000020,Smart Light Switch,Wi-Fi enabled light switch with app control.,Home & Kitchen,39.99,HOME-SLS-020,2020-12-01
+10000021,Electric Scooter,Foldable scooter with 15-mile range per charge.,Sports & Outdoors,299.99,SPORTS-ES-021,2023-06-18
+10000022,Ceramic Nonstick Cookware,4-piece nonstick cookware set with ceramic coating.,Home & Kitchen,99.99,HOME-CNC-022,2021-04-25
+10000023,Bluetooth Fitness Scale,Body composition scale with app connectivity.,Health & Personal Care,49.95,HEALTH-BFS-023,2022-08-02
+10000024,Smart Security Camera,1080p security camera with night vision and alerts.,Electronics,79.99,ELEC-SSC-024,2020-10-10
+10000025,Electric Kettle,Fast-boiling electric kettle with auto shut-off.,Home & Kitchen,34.99,HOME-EK-025,2023-07-08

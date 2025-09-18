@@ -1,0 +1,101 @@
+store_id,store_name,street_address,city,state_code,zip_code,store_phone,opening_date
+10001,Baker's Delight,123 Flour Street,Seattle,WA,98101,206-555-0101,2015/03/15
+10002,Tech Haven,456 Silicon Ave,San Francisco,CA,94103,415-555-0123,2018/06/20
+10003,Fashion Forward,789 Style Lane,New York,NY,10001,212-555-0145,2012/09/10
+10004,Grocery World,101 Fresh Blvd,Austin,TX,73301,512-555-0167,2008/11/05
+10005,Book Nook,202 Page Turners Dr,Portland,OR,97201,503-555-0189,2016/01/25
+10006,Pet Paradise,303 Paw Print Way,Miami,FL,33101,305-555-0202,2013/04/18
+10007,Gadget Galaxy,404 Circuit Drive,Las Vegas,NV,89101,702-555-0224,2019/07/12
+10008,Vintage Vibes,505 Retro Road,Chicago,IL,60601,312-555-0246,2006/12/30
+10009,Outdoor Oasis,606 Trailhead St,Denver,CO,80201,303-555-0268,2017/05/23
+10010,Kitchen Krafts,707 Culinary Ct,Houston,TX,77001,713-555-0280,2010/02/14
+10011,Toy Town,808 Playful Plaza,Orlando,FL,32801,407-555-0303,2011/08/09
+10012,Sneaker Stop,909 Sole Street,Los Angeles,CA,90001,213-555-0325,2014/11/22
+10013,Home Harmony,1010 Comfort Ct,Phoenix,AZ,85001,602-555-0347,2013/03/03
+10014,Artisan Alley,1111 Craft Ln,Santa Fe,NM,87501,505-555-0369,2012/06/15
+10015,Fitness First,1212 Workout Way,Boston,MA,02101,617-555-0381,2009/07/07
+10016,Garden Goods,1313 Greenhouse Ln,Charleston,SC,29401,843-555-0404,2018/10/10
+10017,Music Masters,1414 Harmony Rd,Nashville,TN,37201,615-555-0426,2011/05/24
+10018,Sweet Treats,1515 Sugar St,New Orleans,LA,70101,504-555-0448,2015/09/16
+10019,Eco Essentials,1616 Planet Pl,Boulder,CO,80301,303-555-0460,2007/02/28
+10020,Office Outfitters,1717 Desk Dr,Philadelphia,PA,19101,215-555-0482,2016/11/11
+10021,Cycle City,1818 Pedal Path,Portland,OR,97202,503-555-0505,2019/03/29
+10022,Tech Town,1919 Digital Dr,San Jose,CA,95101,408-555-0527,2017/08/21
+10023,Wine & Dine,2020 Vineyard Vw,Napa,CA,94558,707-555-0549,2014/12/05
+10024,Crafty Corner,2121 Artistry Ave,Savannah,GA,31401,912-555-0561,2013/01/18
+10025,Gadget Garage,2222 Invention St,Detroit,MI,48201,313-555-0583,2020/05/01
+10001,Green Valley Grocers,123 Green Valley Road,Springfield,IL,62701,217-555-0123,2015/03/15
+10002,Tech Hub Electronics,456 Innovation Drive,San Jose,CA,95112,408-555-0198,2018/07/22
+10003,Book Nook,789 Literature Lane,Portland,OR,97205,503-555-0187,2010/09/01
+10004,Urban Outfitters,101 Fashion Street,New York,NY,10001,212-555-0173,2005/11/11
+10005,Pet Paradise,202 Animal Avenue,Austin,TX,78701,512-555-0165,2012/04/18
+10006,Gourmet Bites,303 Culinary Court,Chicago,IL,60604,312-555-0154,2016/06/30
+10007,Travel Treasures,404 Journey Lane,Miami,FL,33101,305-555-0143,2019/02/14
+10008,Fitness First,505 Health Blvd,Los Angeles,CA,90001,323-555-0132,2020/01/01
+10009,Home Comforts,606 Cozy Circle,Seattle,WA,98101,206-555-0121,2011/10/10
+10010,Office Essentials,707 Work Way,Boston,MA,02108,617-555-0110,2009/05/05
+10011,Fashion Frenzy,808 Style Street,Las Vegas,NV,89101,702-555-0109,2013/03/03
+10012,Gadget Galaxy,909 Tech Terrace,San Francisco,CA,94101,415-555-0098,2017/08/08
+10013,Nature's Way,1010 Organic Avenue,Denver,CO,80201,303-555-0087,2014/07/07
+10014,Sports Central,1111 Athletic Ave,Phoenix,AZ,85001,602-555-0076,2021/09/09
+10015,Artistic Impressions,1212 Creative Court,Santa Fe,NM,87501,505-555-0065,2008/04/04
+10016,Culinary Delights,1313 Gourmet Road,Houston,TX,77001,713-555-0054,2010/11/11
+10017,Eco Emporium,1414 Sustainable St,Boulder,CO,80301,720-555-0043,2015/05/15
+10018,Music Masters,1515 Harmony Lane,Nashville,TN,37201,615-555-0032,2007/02/02
+10019,Toy World,1616 Play Street,Orlando,FL,32801,407-555-0021,2012/06/06
+10020,Gourmet Grocers,1717 Foodie Blvd,San Antonio,TX,78201,210-555-0010,2018/12/12
+10021,Outdoor Outfitters,1818 Adventure Ave,Salt Lake City,UT,84101,801-555-0009,2019/03/03
+10022,Vintage Vibes,1919 Retro Road,New Orleans,LA,70112,504-555-0098,2014/10/10
+10023,Beauty Boutique,2020 Glamour St,Los Angeles,CA,90002,213-555-0087,2016/01/15
+10024,Tech Trends,2121 Innovation Blvd,Seattle,WA,98102,206-555-0076,2020/07/07
+10025,Wellness Warehouse,2222 Health Lane,San Diego,CA,92101,619-555-0065,2013/04/04
+10001,Green Valley Groceries,123 Elm Street,Springfield,IL,62701,217-555-0101,2012/06/15
+10002,Tech Haven,456 Tech Park,Austin,TX,73301,512-555-0202,2015/09/25
+10003,Books & Nooks,789 Reading Lane,Portland,OR,97201,503-555-0303,2018/07/10
+10004,Fashion Forward,101 Style Street,New York,NY,10001,212-555-0404,2010/11/01
+10005,Health Hub,111 Wellness Way,Los Angeles,CA,90001,323-555-0505,2013/02/18
+10006,Pet Paradise,222 Pet Avenue,Miami,FL,33101,305-555-0606,2016/04/12
+10007,Culinary Creations,333 Gourmet Blvd,San Francisco,CA,94101,415-555-0707,2014/08/23
+10008,The Athlete's Edge,444 Fitness Street,Chicago,IL,60601,312-555-0808,2011/03/30
+10009,Artisan's Alley,555 Craft Circle,Seattle,WA,98101,206-555-0909,2019/01/05
+10010,Home Haven,666 Comfort Ct,Boston,MA,02101,617-555-1010,2008/12/12
+10011,Toy Kingdom,777 Playland Rd,Orlando,FL,32801,407-555-1111,2017/05/20
+10012,Gadget Garage,888 Tech Avenue,San Jose,CA,95101,408-555-1212,2013/11/29
+10013,Eco-Friendly Essentials,999 Green Street,Denver,CO,80201,303-555-1313,2011/06/17
+10014,The Music Den,1010 Melody Lane,Nashville,TN,37201,615-555-1414,2015/10/02
+10015,Outdoors Unlimited,1111 Trail Road,Salt Lake City,UT,84101,801-555-1515,2009/09/19
+10016,Cultural Corner,1212 Heritage Blvd,Phoenix,AZ,85001,602-555-1616,2016/03/07
+10017,Urban Outfitters Hub,1313 Fashion Lane,Philadelphia,PA,19101,215-555-1717,2014/07/15
+10018,Sweet Tooth Bakery,1414 Dessert Drive,Las Vegas,NV,89101,702-555-1818,2012/04/21
+10019,Vintage Vibes,1515 Retro Road,New Orleans,LA,70101,504-555-1919,2018/11/09
+10020,Gourmet Grocer,1616 Culinary Ct,Houston,TX,77001,713-555-2020,2010/08/25
+10021,Tech Trends,1717 Innovation Drive,San Diego,CA,92101,619-555-2121,2013/01/13
+10022,Fitness Fanatics,1818 Health Hwy,Columbus,OH,43201,614-555-2222,2016/05/02
+10023,Art House,1919 Canvas Street,Santa Fe,NM,87501,505-555-2323,2019/02/14
+10024,Craft Corner,2020 Handmade Avenue,Cincinnati,OH,45201,513-555-2424,2011/11/05
+10025,Luxury Living,2121 Opulence Lane,Dallas,TX,75201,214-555-2525,2009/07/22
+10001,Green Grocers,123 Market St,San Francisco,CA,94103,415-555-0101,2010/05/15
+10002,Tech Haven,456 Silicon Ave,San Jose,CA,95112,408-555-0123,2015/11/20
+10003,Book Nook,789 Literature Ln,Pasadena,CA,91101,626-555-0145,2008/03/08
+10004,Style Boutique,321 Fashion Dr,Los Angeles,CA,90015,213-555-0176,2012/08/22
+10005,Fitness First,654 Wellness Way,San Diego,CA,92101,619-555-0198,2018/01/10
+10006,Gourmet Delights,987 Culinary Ct,Portland,OR,97204,503-555-0210,2005/07/14
+10007,Pet Paradise,159 Animal Ave,Seattle,WA,98101,206-555-0232,2013/04/18
+10008,Home Essentials,753 Comfort St,Austin,TX,78701,512-555-0254,2009/09/28
+10009,Garden Glory,951 Green Thumb Rd,Denver,CO,80202,303-555-0276,2016/06/06
+10010,Adventure Outfitter,852 Trailblazer Blvd,Boulder,CO,80301,720-555-0298,2011/12/12
+10011,Toy Kingdom,147 Fun St,Orlando,FL,32801,407-555-0310,2020/02/25
+10012,Fashion Forward,369 Trendy Ln,Miami,FL,33101,305-555-0332,2017/03/30
+10013,Sports Central,258 Athletic Ave,Atlanta,GA,30301,404-555-0354,2019/05/05
+10014,Music Mania,753 Harmony Rd,Nashville,TN,37201,615-555-0376,2014/10/17
+10015,Tech World,951 Innovation Way,New York,NY,10001,212-555-0398,2007/04/12
+10016,Brewed Awakenings,147 Coffee St,Boston,MA,02108,617-555-0410,2013/07/15
+10017,Retro Records,369 Vinyl Ave,Chicago,IL,60601,312-555-0432,2010/11/03
+10018,Elegant Interiors,258 Decor Blvd,Dallas,TX,75201,214-555-0454,2018/02/14
+10019,Toyland,753 Play Dr,Phoenix,AZ,85001,602-555-0476,2021/09/09
+10020,Outdoor Adventures,951 Explorer Ln,Salt Lake City,UT,84101,801-555-0498,2015/11/11
+10021,The Gadget Shop,147 Innovation Dr,Las Vegas,NV,89101,702-555-0510,2019/06/21
+10022,Luxury Living,369 Prestige Ln,Houston,TX,77001,713-555-0532,2016/08/18
+10023,Digital Hub,258 Tech Blvd,San Antonio,TX,78201,210-555-0554,2012/12/07
+10024,Artisan Market,753 Craft St,Philadelphia,PA,19101,215-555-0576,2006/02/02
+10025,Cook's Corner,951 Culinary Ln,Charlotte,NC,28201,704-555-0598,2014/05/23

@@ -1,0 +1,101 @@
+employee_id,first_name,last_name,work_email,phone_number,job_title,department,hire_date,salary
+EMP0000123,Alice,Johnson,alice.johnson@company.com,555-123-4567,Software Engineer,IT,06-15-2015,95000.00
+EMP0000456,Michael,Smith,michael.smith@company.com,555-234-5678,Marketing Manager,Marketing,08-01-2018,85000.00
+EMP0000789,Jessica,Brown,jessica.brown@company.com,555-345-6789,Financial Analyst,Finance,03-10-2016,78000.00
+EMP0000101,Robert,Davis,robert.davis@company.com,555-456-7890,HR Specialist,Human Resources,11-20-2019,62000.00
+EMP0000234,Emily,Wilson,emily.wilson@company.com,555-567-8901,Sales Executive,Sales,09-05-2020,72000.00
+EMP0000567,David,Martinez,david.martinez@company.com,555-678-9012,Project Manager,Project Management,04-15-2017,88000.00
+EMP0000890,Sarah,Taylor,sarah.taylor@company.com,555-789-0123,Customer Service Rep,Customer Service,02-28-2021,48000.00
+EMP0000112,James,Anderson,james.anderson@company.com,555-890-1234,Network Engineer,IT,07-23-2014,93000.00
+EMP0000345,Patricia,Thomas,patricia.thomas@company.com,555-901-2345,Content Writer,Marketing,10-12-2018,54000.00
+EMP0000678,Christopher,Jackson,christopher.jackson@company.com,555-012-3456,Data Analyst,Finance,01-09-2016,79000.00
+EMP0000901,Linda,White,linda.white@company.com,555-123-5678,HR Manager,Human Resources,11-17-2017,91000.00
+EMP0000124,Paul,Harris,paul.harris@company.com,555-234-6789,Sales Manager,Sales,06-01-2019,92000.00
+EMP0000457,Barbara,Clark,barbara.clark@company.com,555-345-7890,Operations Manager,Operations,08-20-2015,98000.00
+EMP0000780,Thomas,Rodriguez,thomas.rodriguez@company.com,555-456-8901,IT Support Specialist,IT,03-22-2020,55000.00
+EMP0000102,Nancy,Lewis,nancy.lewis@company.com,555-567-9012,Graphic Designer,Marketing,11-03-2019,67000.00
+EMP0000235,Charles,Lee,charles.lee@company.com,555-678-0123,Accountant,Finance,09-15-2017,74000.00
+EMP0000568,Lisa,Walker,lisa.walker@company.com,555-789-1234,Recruiter,Human Resources,04-29-2018,60000.00
+EMP0000891,Steven,Hall,steven.hall@company.com,555-890-2345,Sales Assistant,Sales,02-05-2021,52000.00
+EMP0000113,Karen,Allen,karen.allen@company.com,555-901-3456,Business Analyst,Project Management,07-30-2014,87000.00
+EMP0000346,Brian,Young,brian.young@company.com,555-012-4567,SEO Specialist,Marketing,10-25-2018,63000.00
+EMP0000679,Laura,King,laura.king@company.com,555-123-6789,Financial Advisor,Finance,01-20-2016,82000.00
+EMP0000902,Kevin,Scott,kevin.scott@company.com,555-234-7890,HR Coordinator,Human Resources,11-03-2017,58000.00
+EMP0000125,Donna,Green,donna.green@company.com,555-345-8901,Sales Consultant,Sales,06-11-2019,62000.00
+EMP0000458,Edward,Adams,edward.adams@company.com,555-456-9012,Logistics Coordinator,Operations,08-29-2015,70000.00
+EMP0000781,Michelle,Baker,michelle.baker@company.com,555-567-0123,IT Manager,IT,03-05-2020,105000.00
+E123456789,John,Doe,john.doe@lawfirm.com,312-555-0192,Lawyer,Legal,01-15-2010,125000.00
+E987654321,Jane,Smith,jane.smith@designco.com,212-555-0873,Graphic Designer,Design,06-22-2015,75000.00
+E345678901,Alice,Johnson,alice.johnson@techcorp.com,415-555-0234,Software Engineer,Engineering,03-10-2018,110000.00
+E234567890,Robert,Brown,robert.brown@healthplus.com,617-555-0921,Nurse,Healthcare,09-01-2012,68000.00
+E456789012,Emily,Davis,emily.davis@financesafe.com,718-555-0147,Accountant,Finance,11-11-2019,83000.00
+E567890123,Michael,Wilson,michael.wilson@medresearch.com,303-555-0923,Research Scientist,Research,02-20-2016,98000.00
+E678901234,Jessica,Martinez,jessica.martinez@school.edu,646-555-0765,Teacher,Education,08-15-2011,55000.00
+E789012345,David,Lopez,david.lopez@cityplanner.com,210-555-0812,Urban Planner,Planning,05-05-2014,90000.00
+E890123456,Sophia,Hernandez,sophia.hernandez@fashionhub.com,213-555-0642,Fashion Designer,Creative,07-18-2017,72000.00
+E901234567,James,Clark,james.clark@constructionco.com,503-555-0909,Project Manager,Construction,04-01-2013,95000.00
+E012345678,Olivia,Garcia,olivia.garcia@bakinghouse.com,312-555-0727,Pastry Chef,Culinary,12-22-2018,58000.00
+E123450987,Ethan,Rodriguez,ethan.rodriguez@adagency.com,310-555-0303,Copywriter,Marketing,10-10-2020,67000.00
+E234560987,Charlotte,Lee,charlotte.lee@meddevice.com,312-555-0666,Biomedical Engineer,Engineering,03-25-2015,104000.00
+E345670987,Daniel,Walker,daniel.walker@lawfirm.com,646-555-0324,Paralegal,Legal,06-15-2017,56000.00
+E456780987,Mia,King,mia.king@hospitalnetwork.com,312-555-0777,Surgeon,Healthcare,09-10-2011,210000.00
+E567890987,Lucas,Green,lucas.green@electronicarts.com,312-555-0110,Game Developer,Development,02-14-2021,95000.00
+E678901987,Ava,Hall,ava.hall@concertvenue.com,702-555-0404,Event Coordinator,Events,05-30-2019,62000.00
+E789012987,Noah,Adams,noah.adams@autoindustry.com,616-555-0255,Automotive Engineer,Engineering,07-07-2016,115000.00
+E890123987,Isabella,Baker,isabella.baker@bookpublishing.com,414-555-0433,Editor,Publishing,11-11-2014,69000.00
+E901234987,William,Carter,william.carter@logisticsco.com,832-555-0789,Logistics Manager,Logistics,01-25-2012,92000.00
+E012345987,Emma,Phillips,emma.phillips@university.edu,312-555-0999,Professor,Academics,08-20-2018,80000.00
+E123456098,Benjamin,Evans,benjamin.evans@pharmaco.com,312-555-0655,Pharmacist,Pharmacy,06-18-2013,97000.00
+E234567098,Abigail,Nelson,abigail.nelson@hrsolutions.com,312-555-0555,HR Specialist,Human Resources,01-15-2017,65000.00
+E345678098,Henry,Mitchell,henry.mitchell@investments.com,312-555-0222,Financial Analyst,Finance,04-04-2019,78000.00
+E456789098,Amelia,Roberts,amelia.roberts@travelagency.com,312-555-0333,Travel Agent,Travel,07-21-2020,64000.00
+EMP0012345,John,Doe,john.doe@lawfirm.com,312-555-0192,Lawyer,Legal,05-10-2010,85000.00
+EMP0012346,Jane,Smith,jane.smith@artcompany.com,212-555-0873,Graphic Designer,Design,11-22-2015,60000.00
+EMP0012347,Sarah,Johnson,sarah.johnson@medicenter.com,617-555-0234,Nurse,Healthcare,08-14-2012,72000.00
+EMP0012348,Michael,Brown,michael.brown@techinnovators.com,415-555-0493,Software Engineer,Engineering,03-23-2018,95000.00
+EMP0012349,Emily,Davis,emily.davis@university.edu,919-555-0987,Professor,Education,09-01-2005,91000.00
+EMP0012350,David,Wilson,david.wilson@financecorp.com,312-555-0734,Financial Analyst,Finance,06-19-2016,88000.00
+EMP0012351,Jessica,Martinez,jessica.martinez@fashionshop.com,718-555-0456,Fashion Designer,Design,02-15-2020,68000.00
+EMP0012352,Daniel,Garcia,daniel.garcia@hospital.org,303-555-0812,Surgeon,Healthcare,07-30-2011,150000.00
+EMP0012353,Laura,Hernandez,laura.hernandez@citygov.com,512-555-0321,City Planner,Urban Development,10-05-2014,75000.00
+EMP0012354,James,Lopez,james.lopez@constructionco.com,818-555-0974,Construction Manager,Construction,04-11-2010,93000.00
+EMP0012355,Linda,Gonzalez,linda.gonzalez@retailgiant.com,702-555-0645,Store Manager,Retail,12-18-2013,58000.00
+EMP0012356,Robert,Clark,robert.clark@bankingcorp.com,512-555-0678,Bank Manager,Finance,05-09-2009,102000.00
+EMP0012357,Patricia,Lewis,patricia.lewis@cateringco.com,303-555-0239,Chef,Culinary,01-20-2018,64000.00
+EMP0012358,Charles,Walker,charles.walker@industrygroup.com,619-555-0486,Industrial Engineer,Manufacturing,03-18-2015,87000.00
+EMP0012359,Barbara,Hall,barbara.hall@travelagency.com,213-555-0194,Travel Agent,Travel,08-09-2017,52000.00
+EMP0012360,Joseph,Young,joseph.young@techstore.com,646-555-0324,Sales Associate,Sales,07-21-2019,42000.00
+EMP0012361,Susan,Allen,susan.allen@realestatefirm.com,727-555-0237,Real Estate Agent,Real Estate,11-30-2012,78000.00
+EMP0012362,Thomas,King,thomas.king@energyco.com,304-555-0786,Petroleum Engineer,Energy,06-15-2014,113000.00
+EMP0012363,Karen,Wright,karen.wright@pharmaco.com,513-555-0947,Pharmacist,Healthcare,02-22-2016,98000.00
+EMP0012364,Christopher,Scott,christopher.scott@mediahouse.com,213-555-0914,Journalist,Media,09-12-2008,76000.00
+EMP0012365,Lisa,Green,lisa.green@musiclabel.com,323-555-0490,Music Producer,Entertainment,04-26-2017,105000.00
+EMP0012366,Mark,Adams,mark.adams@techstartup.com,650-555-0623,CTO,Technology,02-08-2019,150000.00
+EMP0012367,Nancy,Baker,nancy.baker@foodchain.com,505-555-0321,Quality Assurance Manager,Food Production,05-16-2013,83000.00
+EMP0012368,Steven,Nelson,steven.nelson@sportsclub.com,407-555-0873,Fitness Trainer,Sports,10-10-2020,48000.00
+EMP0012369,Betty,Campbell,betty.campbell@charity.org,312-555-0674,Fundraising Coordinator,Non-Profit,03-28-2011,67000.00
+E000000001,John,Doe,john.doe@lawfirm.com,312-555-0192,Lawyer,Legal,06-12-2015,120000.00
+E000000002,Jane,Smith,jane.smith@artcompany.com,212-555-0873,Graphic Designer,Design,04-03-2018,75000.00
+E000000003,Michael,Johnson,michael.johnson@techcorp.com,415-555-1234,Software Engineer,IT,08-15-2016,95000.00
+E000000004,Emily,Davis,emily.davis@marketingpro.com,646-555-6789,Marketing Manager,Marketing,01-22-2017,85000.00
+E000000005,Robert,Brown,robert.brown@financehub.com,213-555-4321,Financial Analyst,Finance,03-10-2019,78000.00
+E000000006,Linda,Wilson,linda.wilson@healthcareinc.com,407-555-8765,Nurse,Healthcare,05-14-2015,67000.00
+E000000007,David,Martinez,david.martinez@retailgroup.com,512-555-0987,Store Manager,Retail,09-18-2014,60000.00
+E000000008,Susan,Clark,susan.clark@educationplus.com,323-555-4567,Teacher,Education,11-05-2018,54000.00
+E000000009,James,Lewis,james.lewis@constructionco.com,718-555-3210,Project Manager,Construction,07-21-2016,88000.00
+E000000010,Jessica,Walker,jessica.walker@hospitalitynet.com,310-555-6543,Event Coordinator,Hospitality,10-30-2017,48000.00
+E000000011,Daniel,Hall,daniel.hall@supplychain.com,713-555-7890,Logistics Manager,Supply Chain,02-11-2015,92000.00
+E000000012,Elizabeth,Allen,elizabeth.allen@medtech.com,602-555-2468,Medical Technician,Healthcare,06-25-2016,61000.00
+E000000013,Christopher,King,christopher.king@travelwise.com,212-555-1357,Travel Agent,Travel,12-12-2019,43000.00
+E000000014,Patricia,Wright,patricia.wright@realestate.com,805-555-9876,Real Estate Agent,Real Estate,08-03-2014,75000.00
+E000000015,Matthew,Scott,matthew.scott@automotives.com,614-555-4325,Automotive Engineer,Engineering,09-29-2017,90000.00
+E000000016,Barbara,Green,barbara.green@foodservices.com,706-555-6548,Chef,Culinary,04-16-2020,56000.00
+E000000017,Anthony,Baker,anthony.baker@bankingcorp.com,919-555-8769,Bank Teller,Banking,07-11-2018,39000.00
+E000000018,Nancy,Harris,nancy.harris@fashionhouse.com,305-555-7896,Fashion Designer,Fashion,11-08-2015,71000.00
+E000000019,Charles,Rivera,charles.rivera@pharmacyco.com,702-555-1239,Pharmacist,Pharmacy,03-27-2016,95000.00
+E000000020,Karen,Nelson,karen.nelson@architects.com,313-555-6542,Architect,Architecture,05-30-2019,98000.00
+E000000021,Joseph,Perez,joseph.perez@construction.com,504-555-0981,Civil Engineer,Construction,01-19-2014,89000.00
+E000000022,Lisa,Roberts,lisa.roberts@hospitalgroup.com,213-555-7654,Surgeon,Healthcare,07-05-2015,200000.00
+E000000023,Thomas,Turner,thomas.turner@softwarehouse.com,619-555-4765,Data Scientist,IT,02-28-2019,105000.00
+E000000024,Sarah,Phillips,sarah.phillips@mediaworld.com,718-555-6732,Journalist,Media,10-13-2016,68000.00
+E000000025,Steven,Campbell,steven.campbell@logisticsco.com,225-555-2345,Warehouse Manager,Logistics,06-06-2017,62000.00

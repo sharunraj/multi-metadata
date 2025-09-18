@@ -1,0 +1,101 @@
+supplier_id,company_name,contact_name,contact_email,company_phone,country
+100001,Global Tech Supplies,Alice Johnson,alice.johnson@globaltech.com,+1-212-555-0147,United States
+100002,Green Earth Goods,Liam Smith,liam.smith@greenearth.com,+44-20-7946-0958,United Kingdom
+100003,Zenith Manufacturing,Sophia Zhang,sophia.zhang@zenithmfg.cn,+86-21-5550-1234,China
+100004,Alpine Sports Gear,Noah Brown,noah.brown@alpinesports.co,+49-89-555-6789,Germany
+100005,Culinary Delights International,Emma Garcia,emma.garcia@culinarydelights.es,+34-91-555-4321,Spain
+100006,Artisan Woodworks,Ethan Wilson,ethan.wilson@artisanwoodworks.com,+1-604-555-7788,Canada
+100007,Tech Innovate,Olivia Davis,olivia.davis@techinnovate.in,+91-22-5559-8765,India
+100008,Nordic Eco Solutions,Lucas Anderson,lucas.anderson@nordiceco.no,+47-55-555-1234,Norway
+100009,Bella Moda,Isabella Rossi,isabella.rossi@bellamoda.it,+39-06-555-9876,Italy
+100010,Oceanic Ventures,Mason Lee,mason.lee@oceanicventures.au,+61-2-5550-4567,Australia
+100011,Metro Logistics,Sophia Kim,sophia.kim@metrologistics.kr,+82-2-555-9876,South Korea
+100012,AgriFuture,James Nguyen,james.nguyen@agrifuture.vn,+84-28-555-1234,Vietnam
+100013,TechSavvy Solutions,Chloe Martin,chloe.martin@techsavvy.fr,+33-1-555-6789,France
+100014,Innovative Textiles,William Johnson,william.johnson@innovatetextiles.br,+55-11-555-0234,Brazil
+100015,Sahara Minerals,Amelia El-Tahir,amelia.tahir@saharaminerals.ma,+212-5-555-6789,Morocco
+100016,Arctic Electronics,Oliver Hansen,oliver.hansen@arcticelectronics.se,+46-8-555-1234,Sweden
+100017,Tropical Flavors,Mia Gonzalez,mia.gonzalez@tropicalflavors.mx,+52-55-555-7890,Mexico
+100018,Pacific Rim Logistics,Aiden Tan,aiden.tan@pacificrim.sg,+65-6555-1234,Singapore
+100019,Eurasian Trade Co.,Charlotte Lee,charlotte.lee@eurasiantrade.ru,+7-495-555-9876,Russia
+100020,Maple Leaf Crafts,Benjamin Thompson,benjamin.thompson@maplecrafts.ca,+1-416-555-2345,Canada
+100021,Mediterranean Goods,Zara Khan,zara.khan@medgoods.gr,+30-21-555-6789,Greece
+100022,Safari Adventures Ltd.,Daniel Moyo,daniel.moyo@safariltd.ke,+254-20-555-1234,Kenya
+100023,Modern Home Designs,Emily O'Connor,emily.oconnor@modernhome.ie,+353-1-555-7890,Ireland
+100024,Silk Road Spices,Mohammed Al-Farsi,mohammed.farsi@silkroadspices.ae,+971-4-555-9876,United Arab Emirates
+100025,Caribbean Harvest,Jasmine Lewis,jasmine.lewis@caribbeanhvst.jm,+1-876-555-1234,Jamaica
+100001,Tech Innovators Inc.,Alice Johnson,alice.johnson@techinnovators.com,+1-415-555-0101,United States
+100002,GreenGrocer Ltd.,Bob Green,bob.green@greengrocer.co.uk,+44-20-7946-0958,United Kingdom
+100003,Fashion Forward LLC,Chloe Kim,chloe.kim@fashionforward.com,+1-212-555-0192,United States
+100004,Automotive Excellence GmbH,Dieter Schmidt,dieter.schmidt@autoexcellence.de,+49-30-5555-1234,Germany
+100005,Gourmet Chefs Co.,Emily Chen,emily.chen@gourmetchefs.co,+61-2-5555-6789,Australia
+100006,Digital Solutions Ltd.,Felix Perez,felix.perez@digitalsolutions.ca,+1-416-555-2323,Canada
+100007,Eco-Friendly Products,Grace Lee,grace.lee@ecoproducts.kr,+82-2-5555-4545,South Korea
+100008,Innovative Textiles Pvt. Ltd.,Hassan Khan,hassan.khan@innovativetextiles.in,+91-22-5555-0101,India
+100009,TechPioneers Co.,Ivan Novikov,ivan.novikov@techpioneers.ru,+7-495-555-6789,Russia
+100010,AquaPure Enterprises,Julia Martinez,julia.martinez@aquapure.mx,+52-55-5555-1234,Mexico
+100011,Global Electronics Corp.,Kevin Wong,kevin.wong@globalelectronics.cn,+86-10-5555-6789,China
+100012,Natural Beauty Ltd.,Laura Rivera,laura.rivera@naturalbeauty.br,+55-11-5555-0192,Brazil
+100013,HomeSafe Security,Max Brown,max.brown@homesafe.co.za,+27-21-5555-2323,South Africa
+100014,SmartHome Innovations,Nina Petrova,nina.petrova@smarthome.bg,+359-2-555-4545,Bulgaria
+100015,Artisan Crafts Inc.,Oscar Romero,oscar.romero@artisancrafts.es,+34-91-5555-0101,Spain
+100016,Healthy Eats Co.,Pauline Tan,pauline.tan@healthyeats.sg,+65-5555-6789,Singapore
+100017,TravelPro Services,Quinn Murphy,quinn.murphy@travelpro.ie,+353-1-5555-1234,Ireland
+100018,Innovate AI Solutions,Rosa Delgado,rosa.delgado@innovateai.cl,+56-2-5555-2323,Chile
+100019,Culinary Creations Ltd.,Samira Ahmed,samira.ahmed@culinarycreations.ae,+971-4-5555-4545,United Arab Emirates
+100020,Outdoor Adventures Co.,Tom Harlow,tom.harlow@outdooradventures.co.nz,+64-4-5555-6789,New Zealand
+100021,TechTrends Corp.,Uma Patel,uma.patel@techtrends.pk,+92-21-5555-0192,Pakistan
+100022,SmartFit Solutions,Victor Lopez,victor.lopez@smartfit.co,+57-1-5555-0101,Colombia
+100023,Luxury Living Ltd.,Wendy Taylor,wendy.taylor@luxuryliving.co.uk,+44-20-5555-6789,United Kingdom
+100024,PureTech Innovations,Xavier Dupont,xavier.dupont@puretech.fr,+33-1-5555-1234,France
+100025,Green Energy Solutions,Yuki Nakamura,yuki.nakamura@greenenergy.jp,+81-3-5555-2323,Japan
+100001,Fresh Farm Produce Ltd,Emily Green,emily.green@freshfarmproduce.com,020-555-0123,United Kingdom
+100002,Tech Gadgets Inc.,Michael Johnson,michael.johnson@techgadgets.com,415-555-0199,United States
+100003,Fashion Hub,Sophia Lee,sophia.lee@fashionhub.com,613-555-0234,Canada
+100004,Gourmet Delights,Carlos Martinez,carlos.martinez@gourmetdelights.com,34-555-0456,Spain
+100005,Eco-Friendly Solutions,Liam Patel,liam.patel@ecofriendly.com,91-555-0678,India
+100006,Luxury Watches Co.,Olivia Brown,olivia.brown@luxurywatches.com,61-555-0890,Australia
+100007,Home Essentials,Noah Wilson,noah.wilson@homeessentials.com,49-555-1011,Germany
+100008,Sports Gear Pro,Emma Davis,emma.davis@sportsgearpro.com,33-555-1213,France
+100009,Artisan Crafts,Lucas White,lucas.white@artisancrafts.com,351-555-1415,Portugal
+100010,Digital Solutions Group,Isabella King,isabella.king@digitalsolutions.com,65-555-1617,Singapore
+100011,Organic Foods Market,Maxwell Kim,maxwell.kim@organicfoods.com,82-555-1819,South Korea
+100012,Luxury Furniture Ltd,Charlotte Rodriguez,charlotte.rodriguez@luxuryfurniture.com,55-555-2021,Brazil
+100013,Pet Supplies Co.,Benjamin Clark,benjamin.clark@petsupplies.com,27-555-2223,South Africa
+100014,Beverage World,Amelia Hernandez,amelia.hernandez@beverageworld.com,1-555-2425,Mexico
+100015,Automotive Parts Corp,William Scott,william.scott@autoparts.com,31-555-2627,Netherlands
+100016,Medical Supplies Ltd,Mia Thompson,mia.thompson@medsupplies.com,46-555-2829,Sweden
+100017,Travel Essentials,Daniel Nguyen,daniel.nguyen@travelessentials.com,84-555-3031,Vietnam
+100018,Book Haven,Sophia Walker,sophia.walker@bookhaven.com,64-555-3233,New Zealand
+100019,Garden Supplies Ltd,Jack Hall,jack.hall@gardensupplies.com,353-555-3435,Ireland
+100020,Kids Toys World,Ava Lewis,ava.lewis@kidstoys.com,61-555-3637,Australia
+100021,Culinary Arts Supplies,Ethan Adams,ethan.adams@culinarysupplies.com,39-555-3839,Italy
+100022,Luxury Travel Packages,Ella Parker,ella.parker@luxurytravel.com,44-555-4041,United Kingdom
+100023,Office Supplies Direct,James Young,james.young@officesupplies.com,32-555-4243,Belgium
+100024,Fitness Equipment Co.,Chloe Turner,chloe.turner@fitnessequipment.com,48-555-4445,Poland
+100025,Beauty Products Ltd,Logan Harris,logan.harris@beautyproducts.com,41-555-4647,Switzerland
+100001,Tech Innovations Ltd.,Alice Johnson,alice.johnson@techinnovations.com,+1-415-555-0101,United States
+100002,Green Earth Supplies,Michael Green,michael.green@greenearth.com,+44-20-7946-0958,United Kingdom
+100003,Oceanic Ventures,Linda Waters,linda.waters@oceanicventures.com,+61-2-5550-1234,Australia
+100004,Mountain Peaks Co.,Chris Summit,chris.summit@mountainpeaks.co,+1-303-555-0192,United States
+100005,Urban Outfitters,Samantha Urban,samantha.urban@urbanoutfitters.com,+49-30-5550-8877,Germany
+100006,Forest Goods Inc.,Peter Woods,peter.woods@forestgoods.com,+33-1-5550-1111,France
+100007,Desert Sun Enterprises,Sahara Dunes,sahara.dunes@desertsun.com,+971-4-555-2234,United Arab Emirates
+100008,Polar Exports,Arctic Frost,arctic.frost@polarexports.com,+7-495-555-6677,Russia
+100009,Tropical Harvest,Jungle Rain,jungle.rain@tropicalharvest.com,+91-22-555-3344,India
+100010,Savannah Goods,Leo Safari,leo.safari@savannahgoods.com,+27-11-555-4455,South Africa
+100011,Island Imports,Coral Reef,coral.reef@islandimports.com,+1-808-555-6677,United States
+100012,Northern Lights Ltd.,Aurora Borealis,aurora.borealis@northernlights.com,+47-21-555-8899,Norway
+100013,Rainforest Suppliers,Amazon River,amazon.river@rainforestsuppliers.com,+55-21-555-7788,Brazil
+100014,Safari Traders,Zara Safari,zara.safari@safaritraders.com,+254-20-555-9900,Kenya
+100015,Outback Supplies,Kylie Koala,kylie.koala@outbacksupplies.com,+61-8-5550-5566,Australia
+100016,Pinewood Products,Douglas Fir,douglas.fir@pinewoodproducts.com,+1-604-555-7788,Canada
+100017,Misty Peaks Ltd.,Misty Mountain,misty.mountain@mistypeaks.com,+64-4-555-3344,New Zealand
+100018,Canyon Suppliers,Canyon River,canyon.river@canyonsuppliers.com,+1-928-555-9900,United States
+100019,Seashore Exports,Sandy Beach,sandy.beach@seashoreexports.com,+34-91-5550-2233,Spain
+100020,Glacier Goods,Iceberg Chill,iceberg.chill@glaciergoods.com,+354-5-555-6677,Iceland
+100021,Volcano Ventures,Lava Flow,lava.flow@volcanoventures.com,+62-21-555-7788,Indonesia
+100022,Delta Distributors,River Delta,river.delta@deltadistributors.com,+20-2-555-8899,Egypt
+100023,Meadow Suppliers,Daisy Field,daisy.field@meadowsuppliers.com,+353-1-555-4455,Ireland
+100024,Sunset Enterprises,Amber Horizon,amber.horizon@sunsetenterprises.com,+1-213-555-5566,United States
+100025,Aurora Exports,Polaris North,polaris.north@auroraexports.com,+358-9-555-6677,Finland
