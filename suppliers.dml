@@ -1,0 +1,13 @@
+/* ======================================================
+   Metadata File: suppliers.dml
+   Description  : Defines the record layout for Suppliers
+   ====================================================== */
+
+record
+  integer(6)                  supplier_id;
+  string(100)                 company_name;
+  string(100)                 contact_name;
+  string(100)                 contact_email;
+  string(20)                  company_phone;
+  string(50)                  country;
+end;

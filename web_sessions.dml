@@ -1,0 +1,15 @@
+/* ======================================================
+   Metadata File: web_sessions.dml
+   Description  : Defines the layout for user web sessions
+   ====================================================== */
+
+record
+  string(36)                  session_id;
+  integer(10)                 user_id;
+  string(45)                  ip_address;
+  datetime("YYYY-MM-DDTHH24:MI:SSZ") session_start_time;
+  datetime("YYYY-MM-DDTHH24:MI:SSZ") session_end_time;
+  integer(4)                  pages_visited;
+  string(50)                  device_type; // e.g., 'Desktop', 'Mobile', 'Tablet'
+  string(50)                  browser;
+end;

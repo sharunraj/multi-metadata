@@ -1,0 +1,14 @@
+/* ======================================================
+   Metadata File: marketing_campaigns.dml
+   Description  : Defines the layout for Marketing efforts
+   ====================================================== */
+
+record
+  string(15)                  campaign_id;
+  string(100)                 campaign_name;
+  string(20)                  campaign_type; // e.g., 'Email', 'Social Media', 'PPC'
+  date("MM/DD/YYYY")          start_date;
+  date("MM/DD/YYYY")          end_date;
+  decimal(15, 2)              budget;
+  string(50)                  target_audience;
+end;

@@ -1,0 +1,14 @@
+/* ======================================================
+   Metadata File: sales_transactions.dml
+   Description  : Defines the record layout for Sales
+   ====================================================== */
+
+record
+  string(36)                  transaction_id;
+  integer(8)                  product_id;
+  integer(10)                 customer_id;
+  integer(4)                  quantity;
+  decimal(10, 2)              total_price;
+  datetime("YYYY-MM-DD HH24:MI:SS") transaction_timestamp;
+  integer(5)                  store_id;
+end;

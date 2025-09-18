@@ -1,0 +1,12 @@
+/* ======================================================
+   Metadata File: inventory.dml
+   Description  : Defines the record layout for Inventory
+   ====================================================== */
+
+record
+  integer(5)                  store_id;
+  integer(8)                  product_id;
+  integer(6)                  quantity_on_hand;
+  string(20)                  location_in_store; // e.g., Aisle 5, Shelf 3
+  datetime("YYYY-MM-DD HH24:MI:SS") last_updated;
+end;

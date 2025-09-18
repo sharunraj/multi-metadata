@@ -1,0 +1,13 @@
+/* ======================================================
+   Metadata File: customer_feedback.dml
+   Description  : Defines customer ratings and reviews
+   ====================================================== */
+
+record
+  string(36)                  feedback_id;
+  integer(10)                 customer_id;
+  integer(8)                  product_id;
+  integer(1)                  rating; // A score from 1 to 5
+  string(1000)                comments;
+  date("YYYY-MM-DD")          submission_date;
+end;

@@ -1,0 +1,14 @@
+/* ======================================================
+   Metadata File: products.dml
+   Description  : Defines the record layout for Products
+   ====================================================== */
+
+record
+  integer(8)                  product_id;
+  string(100)                 product_name;
+  string(255)                 description;
+  string(50)                  category;
+  decimal(10, 2)              unit_price;
+  string(20)                  sku;
+  date("YYYY-MM-DD")          launch_date;
+end;

@@ -1,0 +1,15 @@
+/* ======================================================
+   Metadata File: shipping_logs.dml
+   Description  : Defines the layout for shipping records
+   ====================================================== */
+
+record
+  string(20)                  shipment_id;
+  string(36)                  order_id;
+  string(50)                  shipping_carrier;
+  string(30)                  tracking_number;
+  string(255)                 destination_address;
+  date("YYYY-MM-DD")          shipped_date;
+  date("YYYY-MM-DD")          estimated_delivery_date;
+  string(20)                  status; // e.g., 'Shipped', 'In Transit', 'Delivered'
+end;

@@ -1,0 +1,15 @@
+/* ======================================================
+   Metadata File: stores.dml
+   Description  : Defines the record layout for Stores
+   ====================================================== */
+
+record
+  integer(5)                  store_id;
+  string(100)                 store_name;
+  string(255)                 street_address;
+  string(50)                  city;
+  string(2)                   state_code;
+  string(10)                  zip_code;
+  string(15)                  store_phone;
+  date("YYYY/MM/DD")          opening_date;
+end;
