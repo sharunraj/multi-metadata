@@ -1,101 +1,11 @@
 feedback_id,customer_id,product_id,rating,comments,submission_date
-fb9c47b5-026e-4c77-97d5-3a6f90a6c1d1,1023456789,56789012,5,Absolutely loved the new smartphone. It exceeded all my expectations with its performance and battery life.,2023-03-15
-0e8f2c8d-3ea7-4e13-8f25-1b9f9b8a8b1f,1123456789,56789013,4,"The vacuum cleaner works well but could be quieter. Overall, satisfied with the purchase.",2023-01-22
-1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d,1223456789,56789014,3,The blender works fine but I expected more speed settings for the price.,2023-02-10
-7c8d9e0f-1a2b-3c4d-5e6f-7a8b9c0d1e2f,1323456789,56789015,2,The headphones were uncomfortable to wear for long periods. Sound quality was decent though.,2023-04-01
-8d9e0f1a-2b3c-4d5e-6f7a-8b9c0d1e2f3a,1423456789,56789016,1,The coffee maker stopped working after a week. Very disappointed.,2023-05-07
-0f1a2b3c-4d5e-6f7a-8b9c-0d1e2f3a4b5c,1523456789,56789017,5,The smartwatch is fantastic. The health tracking features are very accurate.,2023-06-12
-1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b,1623456789,56789018,4,The microwave works well. It heats food evenly and quickly.,2023-07-19
-3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d,1723456789,56789019,3,The television has a good picture quality but the remote control is not very responsive.,2023-08-25
-5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f,1823456789,56789020,2,The laptop runs slower than expected and has a very short battery life.,2023-09-30
-6d7e8f9a-0b1c-2d3e-4f5a-6b7c8d9e0f1a,1923456789,56789021,1,The refrigerator is very noisy and doesn't cool properly.,2023-10-04
-7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b,2023456789,56789022,5,The air purifier has been a lifesaver for my allergies. Highly recommend!,2023-11-11
-9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d,2123456789,56789023,4,The dishwasher cleans well but is a bit loud.,2023-12-15
-0b1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e,2223456789,56789024,3,The oven works fine but takes a long time to preheat.,2023-01-17
-1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f,2323456789,56789025,2,The hair dryer is too heavy and not very powerful.,2023-02-20
-2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a,2423456789,56789026,1,The toaster burns the bread no matter what setting it's on.,2023-03-27
-3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b,2523456789,56789027,5,The electric kettle boils water quickly and has a nice design.,2023-04-30
-4f5a6b7c-8d9e-0f1a-2b3c-4d5e6f7a8b9c,2623456789,56789028,4,The washing machine cleans clothes well but is quite noisy.,2023-05-18
-5a6b7c8d-9e0f-1a2b-3c4d-5e6f7a8b9c0d,2723456789,56789029,3,The portable speaker has good sound quality but the battery doesn't last long.,2023-06-23
-6b7c8d9e-0f1a-2b3c-4d5e-6f7a8b9c0d1e,2823456789,56789030,2,The tablet is slow and the screen is not very responsive.,2023-07-29
-7c8d9e0f-1a2b-3c4d-5e6f-7a8b9c0d1e2f,2923456789,56789031,1,The fan is very loud and doesn't provide much airflow.,2023-08-03
-8d9e0f1a-2b3c-4d5e-6f7a-8b9c0d1e2f3a,3023456789,56789032,5,The rice cooker makes perfect rice every time and is easy to clean.,2023-09-09
-9e0f1a2b-3c4d-5e6f-7a8b-9c0d1e2f3a4b,3123456789,56789033,4,The electric grill cooks food evenly but is a bit difficult to clean.,2023-10-14
-0f1a2b3c-4d5e-6f7a-8b9c-0d1e2f3a4b5c,3223456789,56789034,3,The air conditioner cools the room effectively but is quite noisy.,2023-11-19
-1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d,3323456789,56789035,2,The juicer is difficult to assemble and clean.,2023-12-25
-2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e,3423456789,56789036,1,The electric shaver pulls on the hair and is very uncomfortable to use.,2023-03-02
-e1f1c4d5-913b-4c95-bcda-1c4f8c5b9a1b,1234567890,87654321,5,Absolutely love this product! It exceeded my expectations and the quality is top-notch.,2023-06-15
-9b2a6c4e-2a3b-499f-9e8b-7e9c4a5d8b2c,9876543210,23456789,4,"Great product, but there was a slight delay in shipping.",2023-07-20
-b3d2f7a6-3b5d-4c9e-8f9a-8b9d7c6e1a3f,1357924680,34567890,3,"The product is decent, but I found it to be a bit overpriced for what it offers.",2023-08-10
-c4f5e8a7-4d6e-5f0b-9a1b-9c8d7e6d2b3f,2468135790,45678901,2,Not satisfied with this purchase. The product did not match the description.,2023-08-25
-d5e6f9b8-5e7f-6g1c-0b2c-0d9e8f7e3c4g,1122334455,56789012,1,Very disappointed. The product arrived damaged and customer service was unhelpful.,2023-09-05
-e6f7g0c9-6f8g-7h2d-1c3d-1e0f9g8f4d5h,5566778899,67890123,5,Fantastic! The product is exactly as described and works perfectly.,2023-09-15
-f7g8h1d0-7g9h-8i3e-2d4e-2f1g0h9g5e6i,9988776655,78901234,4,"Overall very good, but the color was slightly different than expected.",2023-09-25
-g8h9i2e1-8h0i-9j4f-3e5f-3g2h1i0h6f7j,4433221100,89012345,3,"The product is okay, but there are better alternatives available.",2023-10-01
-h9i0j3f2-9i1j-0k5g-4f6g-4h3i2j1i7g8k,5544332211,90123456,2,"Not the best experience, the product did not function as promised.",2023-10-05
-i0j1k4g3-0j2k-1l6h-5g7h-5i4j3k2j8h9l,6677889900,12345678,1,"Terrible quality, and the product stopped working after just one use.",2023-10-10
-j1k2l5h4-1k3l-2m7i-6h8i-6j5k4l3k9i0m,8899001122,23456789,5,I am thoroughly impressed with the quality and performance of this product.,2023-10-15
-k2l3m6i5-2l4m-3n8j-7i9j-7k6l5m4l0j1n,2233445566,34567890,4,"Good product, but the packaging could be improved.",2023-10-20
-l3m4n7j6-3m5n-4o9k-8j0k-8l7m6n5m1k2o,7788990011,45678901,3,"It's okay, but I expected better features for the price.",2023-10-25
-m4n5o8k7-4n6o-5p0l-9k1l-9m8n7o6n2l3p,3344556677,56789012,2,"The product did not perform as advertised, and I am not satisfied.",2023-10-30
-n5o6p9l8-5o7p-6q1m-0l2m-0n9o8p7o3m4q,4455667788,67890123,1,Poor quality and very disappointing customer service.,2023-11-04
-o6p7q0m9-6p8q-7r2n-1m3n-1o0p9q8p4n5r,5566778899,78901234,5,This is the best product I've ever purchased! Highly recommend.,2023-11-09
-p7q8r1n0-7q9r-8s3o-2n4o-2p1q0r9q5o6s,6677889900,89012345,4,"Very good overall, but I had some issues with the installation process.",2023-11-14
-q8r9s2o1-8r0s-9t4p-3o5p-3q2r1s0r6p7t,7788990011,90123456,3,"Decent product, but not as durable as I had hoped.",2023-11-19
-r9s0t3p2-9s1t-0u5q-4p6q-4r3s2t1s7q8u,8899001122,12345678,2,"Not happy with the purchase, the product did not meet my expectations.",2023-11-24
-s0t1u4q3-0t2u-1v6r-5q7r-5s4t3u2t8r9v,2233445566,23456789,1,"Very disappointing, the product stopped working within a week.",2023-11-29
-t1u2v5r4-1u3v-2w7s-6r8s-6t5u4v3u9s0w,3344556677,34567890,5,Excellent product! I am extremely satisfied with my purchase.,2023-12-04
-u2v3w6s5-2v4w-3x8t-7s9t-7u6v5w4v0t1x,4455667788,45678901,4,"Very good product, but the instructions were a bit confusing.",2023-12-09
-v3w4x7t6-3w5x-4y9u-8t0u-8v7w6x5w1u2y,5566778899,56789012,3,"It's okay, but I expected better performance based on the reviews.",2023-12-14
-w4x5y8u7-4x6y-5z0v-9u1v-9w8x7y6x2v3z,6677889900,67890123,2,"Not impressed, the product did not work as advertised.",2023-12-19
-x5y6z9v8-5y7z-6a1w-0v2w-0x9y8z7y3w4a,7788990011,78901234,1,"Awful product, I returned it immediately.",2023-12-24
-b1fa6c59-3c3d-4b0a-8e12-4f8b0d2b3b1f,1000000001,10000001,5,Absolutely love this product! It exceeded all my expectations.,2023-09-01
-c2fa7d60-4d4e-5c1b-9f23-5g9c1e3c4c2g,1000000002,10000002,4,"Great product, but the delivery took longer than expected.",2023-09-02
-d3fa8e71-5e5f-6d2c-0g34-6h0d2f4d5d3h,1000000003,10000003,3,"The product is okay, but I was hoping for a better quality.",2023-09-03
-e4fa9f82-6f6g-7e3d-1h45-7i1e3g5e6e4i,1000000004,10000004,2,"Not very satisfied with this purchase, the product was damaged.",2023-09-04
-f5g0a093-7g7h-8f4e-2i56-8j2f4h6f7f5j,1000000005,10000005,1,"Terrible experience, I want a refund.",2023-09-05
-g6h1b1a4-8h8i-9g5f-3j67-9k3g5i7g8g6k,1000000006,10000006,4,Good product but the packaging was poor.,2023-09-06
-h7i2c2b5-9i9j-0h6g-4k78-0l4h6j8h9h7l,1000000007,10000007,5,Amazing product! Highly recommend to everyone.,2023-09-07
-i8j3d3c6-0j0k-1i7h-5l89-1m5i7k9i0i8m,1000000008,10000008,3,"The product is average, not too bad but not great either.",2023-09-08
-j9k4e4d7-1k1l-2j8i-6m90-2n6j8l0j1j9n,1000000009,10000009,2,"Didn't meet my expectations, the product is overpriced.",2023-09-09
-k0l5f5e8-2l2m-3k9j-7n01-3o7k9m1k2k0o,1000000010,10000010,1,"Very disappointed, the product was faulty.",2023-09-10
-l1m6g6f9-3m3n-4l0k-8o12-4p8l0n2l3l1p,1000000011,10000011,5,"Fantastic product, will definitely buy again!",2023-09-11
-m2n7h7g0-4n4o-5m1l-9p23-5q9m1o3m4m2q,1000000012,10000012,4,"Overall a good product, just a bit pricey.",2023-09-12
-n3o8i8h1-5o5p-6n2m-0q34-6r0n2p4n5n3r,1000000013,10000013,3,"The product is decent, but I expected more features.",2023-09-13
-o4p9j9i2-6p6q-7o3n-1r45-7s1o3q5o6o4s,1000000014,10000014,2,"Not what I was hoping for, the product is too complicated.",2023-09-14
-p5q0k0j3-7q7r-8p4o-2s56-8t2p4r6p7p5t,1000000015,10000015,1,"Worst purchase ever, I regret buying this product.",2023-09-15
-q6r1l1k4-8r8s-9q5p-3t67-9u3q5s7q8q6u,1000000016,10000016,4,"Good value for money, satisfied with the purchase.",2023-09-16
-r7s2m2l5-9s9t-0r6q-4u78-0v4r6t8r9r7v,1000000017,10000017,5,"Excellent product, it works perfectly!",2023-09-17
-s8t3n3m6-0t0u-1s7r-5v89-1w5s7u9s0s8w,1000000018,10000018,3,"The product is fine, but the customer service was lacking.",2023-09-18
-t9u4o4n7-1u1v-2t8s-6w90-2x6t8v0t1t9x,1000000019,10000019,2,"I am not happy with the product, it doesn't perform as described.",2023-09-19
-u0v5p5o8-2v2w-3u9t-7x01-3y7u9w1u2u0y,1000000020,10000020,1,"Horrible experience, the product arrived broken.",2023-09-20
-v1w6q6p9-3w3x-4v0u-8y12-4z8v0x2v3v1z,1000000021,10000021,5,This product is perfect! It meets all my needs.,2023-09-21
-w2x7r7q0-4x4y-5w1v-9z23-5a9w1y3w4w2a,1000000022,10000022,4,"Very good product, just wish it had more color options.",2023-09-22
-x3y8s8r1-5y5z-6x2w-0a34-6b0x2z4x5x3b,1000000023,10000023,3,"The product works fine, but it's not very durable.",2023-09-23
-y4z9t9s2-6z6a-7y3x-1b45-7c1y3a5y6y4c,1000000024,10000024,2,"Disappointed, the product didn't come with a manual.",2023-09-24
-z5a0u0t3-7a7b-8z4y-2c56-8d2z4b6z7z5d,1000000025,10000025,1,"The product is of low quality, not worth the money.",2023-09-25
-f1e2d3c4-b5a6-7890-1234-56789abcdef0,1023456789,87654321,5,The Pro-Gamer Mouse exceeded my expectations. The ergonomic design and precision tracking are perfect for gaming.,2023-08-15
-a1b2c3d4-e5f6-7890-1234-56789abcdef1,2034567890,87654322,4,The desk lamp is stylish and functional. The lighting is adequate for my late-night study sessions.,2023-08-16
-b1c2d3e4-f5a6-7890-1234-56789abcdef2,3045678901,87654323,3,"The wireless earbuds have decent sound quality, but the battery life could be improved.",2023-08-17
-c1d2e3f4-a5b6-7890-1234-56789abcdef3,4056789012,87654324,2,The blender overheats quickly and struggles with harder fruits like frozen berries.,2023-08-18
-d1e2f3a4-b5c6-7890-1234-56789abcdef4,5067890123,87654325,5,This coffee maker is a lifesaver. Brews quickly and the flavor is excellent.,2023-08-19
-e1f2a3b4-c5d6-7890-1234-56789abcdef5,6078901234,87654326,4,The smartphone case is durable and keeps my phone safe from drops.,2023-08-20
-f1a2b3c4-d5e6-7890-1234-56789abcdef6,7089012345,87654327,5,The noise-cancelling headphones are amazing. Perfect for focusing in a busy office.,2023-08-21
-a2b3c4d5-e6f7-7890-1234-56789abcdef7,8090123456,87654328,3,"The electric toothbrush works fine, but the replacement heads are expensive.",2023-08-22
-b2c3d4e5-f6a7-7890-1234-56789abcdef8,9012345678,87654329,4,"The smartwatch is good, but the battery needs frequent charging.",2023-08-23
-c2d3e4f5-a6b7-7890-1234-56789abcdef9,1234567890,87654330,5,I love the air purifier. It makes a noticeable difference in air quality at home.,2023-08-24
-d2e3f4a5-b6c7-7890-1234-56789abcde10,2345678901,87654331,2,The vacuum cleaner is bulky and difficult to maneuver.,2023-08-25
-e2f3a4b5-c6d7-7890-1234-56789abcde11,3456789012,87654332,4,"The laptop is fast and efficient, but the screen resolution could be better.",2023-08-26
-f2a3b4c5-d6e7-7890-1234-56789abcde12,4567890123,87654333,5,The fitness tracker motivates me to stay active. The metrics are very informative.,2023-08-27
-a3b4c5d6-e7f8-7890-1234-56789abcde13,5678901234,87654334,3,"The gaming keyboard is responsive, but the keys are a bit too loud.",2023-08-28
-b3c4d5e6-f7a8-7890-1234-56789abcde14,6789012345,87654335,4,"The wireless charger works well, but it takes longer than a cable.",2023-08-29
-c3d4e5f6-a7b8-7890-1234-56789abcde15,7890123456,87654336,5,The electric kettle heats water quickly and is easy to clean.,2023-08-30
-d3e4f5a6-b7c8-7890-1234-56789abcde16,8901234567,87654337,2,The hair dryer overheats and stops working after a few minutes.,2023-08-31
-e3f4a5b6-c7d8-7890-1234-56789abcde17,9012345678,87654338,4,"The microwave works well, but the buttons are not very intuitive.",2023-09-01
-f3a4b5c6-d7e8-7890-1234-56789abcde18,1234567891,87654339,5,The slow cooker is fantastic for meal prep. It's easy to use and clean.,2023-09-02
-a4b5c6d7-e8f9-7890-1234-56789abcde19,2345678902,87654340,3,"The tablet is decent, but the battery drains quickly when watching videos.",2023-09-03
-b4c5d6e7-f8a9-7890-1234-56789abcde20,3456789013,87654341,5,The camera captures stunning images. I'm very happy with my purchase.,2023-09-04
-c4d5e6f7-a8b9-7890-1234-56789abcde21,4567890124,87654342,4,"The rice cooker is efficient, but the lid doesn't seal tightly.",2023-09-05
-d4e5f6a7-b8c9-7890-1234-56789abcde22,5678901235,87654343,5,The portable speaker is amazing. Great sound quality and battery life.,2023-09-06
-e4f5a6b7-c8d9-7890-1234-56789abcde23,6789012346,87654344,3,"The lawn mower works, but it's quite noisy and heavy.",2023-09-07
-f4a5b6c7-d8e9-7890-1234-56789abcde24,7890123457,87654345,4,The treadmill is sturdy and has a good range of features.,2023-09-08
+2b3e6d08-9b3d-4c6f-afb1-3f6d0ca5b4c1,1029384756,87654321,5,This product exceeded my expectations! The build quality is superb and the performance is top-notch. Highly recommended for anyone in need of a reliable gadget.,2023-04-15
+d1c9e9f4-5ae8-4f4b-b0c9-d9f5a3b6d7c8,1092837465,12345678,4,"Overall, a good product. It serves its purpose well, although there were a few minor issues with the initial setup. Customer service was helpful.",2023-05-01
+f3b4e8c9-2cae-4f8f-9a1b-7b4f9d8a6c3b,1928374650,87654322,3,"The product is okay, but it didn't quite meet my expectations. It works as advertised, but there are better alternatives on the market.",2023-06-21
+4a5e7f8c-3b2a-4c5d-8e9f-2f3e4d5c6b7a,1092837468,12345679,2,I was not very satisfied with this product. It had several issues and did not perform as promised. Would not recommend.,2023-07-14
+7c8e9f0d-2b4a-4f5c-9b8d-6b7a8c9d0e1f,1209384756,87654323,4,"This is a solid product with good value for money. It has a few minor flaws, but they are easily overlooked considering the price.",2023-08-03
+b9c8d7e6-2f3a-4e6f-9c8b-0d1e2c3b4a5f,1029384765,12345680,5,I absolutely love this product! It has made my life so much easier and the quality is outstanding. Would buy again in a heartbeat.,2023-09-20
+6f7e8d9c-1b2a-4c5f-9e8d-3c4b5a6d7e8f,1092837469,87654324,1,Very disappointed with this product. It did not work as described and customer support was unhelpful. Avoid if possible.,2023-10-05
+d1e2f3c4-5b6a-4c7d-8e9f-0a1b2c3d4e5f,1928374651,12345681,3,"The product is average. It performs its basic functions, but there are some features that could be improved for better usability.",2023-03-17
+3c4d5e6f-1a2b-4c5d-8f9e-0b1c2a3d4e5f,1209384757,87654325,4,"Good product with decent features. The design is sleek and modern, but the battery life could be better. Overall, a good buy.",2023-01-29
+2b3c4d5e-6f7a-4c8d-9e0f-1a2b3c4d5e6f,1092837470,12345682,5,Excellent product! It has exceeded my expectations in every way. The features are innovative and the customer service is outstanding.,2023-02-11
