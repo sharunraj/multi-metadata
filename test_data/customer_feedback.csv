@@ -1,11 +1,101 @@
 feedback_id,customer_id,product_id,rating,comments,submission_date
-d7b4a8f0-5a2e-4c9b-951e-1f8a9e4c8a5e,1234567890,87654321,5,Absolutely love this product! It exceeded all my expectations and has become an essential part of my daily routine.,2023-08-15
-f3c9d462-7b1a-4b2f-9a83-5f2e9b4c7d9e,9876543211,23456789,4,"Great product with some minor flaws. Overall, I'm satisfied but there's room for improvement.",2023-09-12
-a1c9e872-9d2a-4c3c-8d9a-6b3c9f7e5d7b,1928374650,34567890,3,"The product is okay, but it did not quite meet my expectations based on the description.",2023-07-20
-b0f9c4c7-2d1e-4f8b-9c7a-8f2c3e9d7b4a,1029384756,45678901,2,"Unfortunately, the product did not work as advertised, and I was quite disappointed with its performance.",2023-10-05
-c6b3f7d5-8e2a-4d9c-9e7b-1f8a0b4c5d3f,5647382910,56789012,1,Very dissatisfied with this purchase. The product was faulty and the customer service was not helpful.,2023-09-01
-d2f0e4d5-1a3b-4c8d-9f7e-6b3c9a8f0b2d,6758493021,67890123,5,This is a fantastic product! I highly recommend it to anyone looking for quality and reliability.,2023-08-25
-e7b4a8f0-9c2d-4f3b-1a8e-5d7f2c3e9b4a,7869504132,78901234,4,"Overall, a solid product that meets most of my needs. I am pleased with my purchase.",2023-10-10
-f3c9d7b4-6a2e-4c8b-9e5f-1d8a2b7c9d4f,8970615243,89012345,3,"The product is decent, but there are better alternatives available at a similar price point.",2023-07-30
-a9b3d7f4-5c2a-4e8b-9d1e-7f3c2b4a9d5e,9081726354,90123456,2,Not impressed with this product. It did not live up to the hype and I would not purchase again.,2023-09-18
-b4c9e7d5-1a3f-4b2c-9d8a-6e7b2f3c9a0d,1092837465,12345678,1,Terrible experience. The product was defective and I received no assistance from customer support.,2023-08-05
+123e4567-e89b-12d3-a456-426614174000,1001,50001,5,Absolutely love the 'Pro-Gamer Mouse'. The precision and speed are unmatched.,2023-07-15
+223e4567-e89b-12d3-a456-426614174001,1002,50002,4,"The 'Eco-Friendly Water Bottle' is great, but the cap could be improved.",2023-07-16
+323e4567-e89b-12d3-a456-426614174002,1003,50003,3,"The 'Smart LED Bulb' works fine, but the app connectivity is inconsistent.",2023-07-17
+423e4567-e89b-12d3-a456-426614174003,1004,50004,2,The 'Wireless Earbuds' have poor sound quality and frequently disconnect.,2023-07-18
+523e4567-e89b-12d3-a456-426614174004,1005,50005,1,The 'Portable Phone Charger' stopped working after one week.,2023-07-19
+623e4567-e89b-12d3-a456-426614174005,1006,50006,5,The 'Luxury Silk Pillowcase' is extremely comfortable and has improved my sleep.,2023-07-20
+723e4567-e89b-12d3-a456-426614174006,1007,50007,4,"The 'Bluetooth Speaker' has great sound, but battery life could be better.",2023-07-21
+823e4567-e89b-12d3-a456-426614174007,1008,50008,3,"The 'Fitness Tracker' is decent, but the step count is not always accurate.",2023-07-22
+923e4567-e89b-12d3-a456-426614174008,1009,50009,2,The 'Electric Toothbrush' stopped charging after a month.,2023-07-23
+a23e4567-e89b-12d3-a456-426614174009,1010,50010,1,The 'VR Headset' is uncomfortable and gives me headaches.,2023-07-24
+b23e4567-e89b-12d3-a456-42661417400a,1011,50011,5,The 'Organic Green Tea' is delicious and refreshing.,2023-07-25
+c23e4567-e89b-12d3-a456-42661417400b,1012,50012,4,"The 'Stainless Steel Cookware Set' is durable, but handles get hot.",2023-07-26
+d23e4567-e89b-12d3-a456-42661417400c,1013,50013,3,The 'Ergonomic Office Chair' is comfortable but hard to assemble.,2023-07-27
+e23e4567-e89b-12d3-a456-42661417400d,1014,50014,2,The 'Robot Vacuum' frequently gets stuck and misses spots.,2023-07-28
+f23e4567-e89b-12d3-a456-42661417400e,1015,50015,1,The 'Digital Camera' produces blurry photos and has a slow shutter.,2023-07-29
+g23e4567-e89b-12d3-a456-42661417400f,1016,50016,5,The 'Noise Cancelling Headphones' are a game changer for my commute.,2023-07-30
+h23e4567-e89b-12d3-a456-426614174010,1017,50017,4,"The 'Electric Kettle' boils water quickly, but the exterior gets hot.",2023-07-31
+i23e4567-e89b-12d3-a456-426614174011,1018,50018,3,"The 'Smart Thermostat' is useful, but the app interface is clunky.",2023-08-01
+j23e4567-e89b-12d3-a456-426614174012,1019,50019,2,The 'Home Security Camera' has poor night vision.,2023-08-02
+k23e4567-e89b-12d3-a456-426614174013,1020,50020,1,The 'Wireless Charging Pad' barely charges my phone.,2023-08-03
+l23e4567-e89b-12d3-a456-426614174014,1021,50021,5,The 'Adjustable Standing Desk' has improved my posture significantly.,2023-08-04
+m23e4567-e89b-12d3-a456-426614174015,1022,50022,4,"The 'Instant Pot' is versatile and a time-saver, but takes some practice.",2023-08-05
+n23e4567-e89b-12d3-a456-426614174016,1023,50023,3,The 'Gaming Laptop' is fast but the battery drains quickly.,2023-08-06
+o23e4567-e89b-12d3-a456-426614174017,1024,50024,2,The 'Pet Camera' is difficult to set up and frequently loses connection.,2023-08-07
+p23e4567-e89b-12d3-a456-426614174018,1025,50025,1,The 'Smart Watch' is overpriced for the limited features it offers.,2023-08-08
+1e4d1c90-5f6e-4b57-a8e7-1e4d1c905f6e,1023456789,12345678,5,Absolutely love the Eco-Friendly Water Bottle. Keeps drinks cold for hours!,2023-09-01
+2b5f9e67-8c3f-4e3b-9c2f-2b5f9e678c3f,9876543210,87654321,4,"The Smart Home Speaker has great sound quality, but occasionally disconnects from Wi-Fi.",2023-09-05
+3c6a7d12-9e8b-4d2c-8f6b-3c6a7d129e8b,1122334455,23456789,3,The wireless earbuds are comfortable but lack bass.,2023-09-10
+4d7b8e23-0f7c-4e3d-9d4c-4d7b8e230f7c,2233445566,34567890,2,Not impressed with the battery life of the gaming mouse.,2023-09-15
+5e8c9f34-1a8d-4f4e-0e5d-5e8c9f341a8d,3344556677,45678901,4,"The laptop is lightweight and fast, but the screen brightness is low.",2023-09-20
+6f9d0a45-2b9e-4f5f-1f6e-6f9d0a452b9e,4455667788,56789012,5,Best hiking boots I've ever owned! Durable and comfortable.,2023-09-25
+7a0e1b56-3c0f-4f6g-2g7f-7a0e1b563c0f,5566778899,67890123,3,"The smartwatch has useful features, but the battery drains quickly.",2023-09-30
+8b1f2c67-4d1g-5g7h-3h8i-8b1f2c674d1g,6677889900,78901234,4,"The blender is powerful and easy to clean, but it's a bit noisy.",2023-10-05
+9c2g3d78-5e2h-6h8i-4i9j-9c2g3d785e2h,7788990011,89012345,5,The noise-canceling headphones are excellent for travel.,2023-10-10
+0d3h4e89-6f3i-7i9j-5j0k-0d3h4e896f3i,8899001122,90123456,2,The coffee machine is stylish but brews lukewarm coffee.,2023-10-15
+1e4i5f90-7g4j-8j0k-6k1l-1e4i5f907g4j,9900112233,12345678,3,The air purifier works well but is difficult to set up.,2023-10-20
+2f5j6g01-8h5k-0k1l-7l2m-2f5j6g018h5k,1011122334,23456789,4,The electric toothbrush cleans effectively but is quite loud.,2023-10-25
+3g6k7h12-9i6l-1l2m-8m3n-3g6k7h129i6l,1122334455,34567890,5,The portable charger charges my devices quickly and is compact.,2023-10-30
+4h7l8i23-0j7m-2m3n-9n4o-4h7l8i230j7m,2233445566,45678901,2,Disappointed with the slow response of the tablet.,2023-09-02
+5i8m9j34-1k8n-3n4o-0o5p-5i8m9j341k8n,3344556677,56789012,3,The vacuum cleaner has good suction but is heavy.,2023-09-07
+6j9n0k45-2l9o-4o5p-1p6q-6j9n0k452l9o,4455667788,67890123,4,"The camera captures high-quality photos, but the battery life is short.",2023-09-12
+7k0o1l56-3m0p-5p6q-2q7r-7k0o1l563m0p,5566778899,78901234,5,The fitness tracker accurately monitors my workouts.,2023-09-17
+8l1p2m67-4n1q-6q7r-3r8s-8l1p2m674n1q,6677889900,89012345,2,The electric scooter is fun but runs out of battery quickly.,2023-09-22
+9m2q3n78-5o2r-7r8s-4s9t-9m2q3n785o2r,7788990011,90123456,3,The robotic vacuum is efficient but misses corners.,2023-09-27
+0n3r4o89-6p3s-8s9t-5t0u-0n3r4o896p3s,8899001122,12345678,4,The printer produces clear documents but jams occasionally.,2023-10-02
+1o4s5p90-7q4t-9t0u-6u1v-1o4s5p907q4t,9900112233,23456789,5,The wireless keyboard is comfortable and responsive.,2023-10-07
+2p5t6q01-8r5u-0u1v-7v2w-2p5t6q018r5u,1011122334,34567890,2,The slow cooker is unreliable and leaks.,2023-10-12
+3q6u7r12-9s6v-1v2w-8w3x-3q6u7r129s6v,1122334455,45678901,3,The hair dryer is powerful but overheats.,2023-10-17
+4r7v8s23-0t7w-2w3x-9x4y-4r7v8s230t7w,2233445566,56789012,4,The dishwasher cleans well but is noisy.,2023-10-22
+5s8w9t34-1u8x-3x4y-0y5z-5s8w9t341u8x,3344556677,67890123,5,The lawn mower cuts grass evenly and is easy to maneuver.,2023-10-27
+a3f5e1c7-5b8d-4a1c-9b9e-0c1e4f2a7a1d,1045827365,21586973,5,Absolutely love the new Pro-Gamer Mouse! The precision and speed are perfect for competitive gaming.,2023-09-15
+b1c6d8e7-9d7f-4a2b-8c8f-1d2e4e3b6a9e,2038592746,31985742,4,"The Eco-Friendly Water Bottle is great for everyday use, but could be improved with a better seal.",2023-09-12
+c4d9e6f7-8c6d-2a3b-9d8c-2e3f5b4c7d8e,3098572631,48275931,3,Comfortable Running Shoes but the soles wore out quicker than expected.,2023-09-10
+d7f2b3a4-6e5d-3a4c-7b9d-3f4e6c5b8d9e,4089571263,59634872,5,The Ultimate Cooking Set is a dream for any chef. High quality materials and design.,2023-09-18
+e8a7b6c5-7d9e-4a5b-6c8d-4e5f7b3c9d8e,5074829316,67398425,2,The Fitness Tracker often loses connection with my phone. Needs improvement.,2023-09-07
+f9b8c7d6-8e9f-5a4b-7d9e-5f6e7c4b8d9e,6085729314,74298316,4,Stylish Sunglasses with great UV protection. Could be more comfortable on the nose.,2023-09-11
+a0d9e8f7-1c6d-2a5b-3d9e-6f7b8c9d7e6a,7094823156,83294715,5,Excellent quality Smartphone Case. Protects my phone from drops and scratches.,2023-09-13
+b1e8f7d6-2d9e-3a6b-4c8d-7e9f5b6c8d9e,8023571946,93284761,4,The Wireless Headphones have great sound quality. Battery life could be longer.,2023-09-16
+c2f9e8d7-3c5d-4a7b-5e9d-8f0b9c7d6e5f,9032581746,10439586,3,The Smart Home Assistant is handy but sometimes struggles with voice recognition.,2023-09-09
+d3a5b6c7-4e7d-5a8b-6c9e-9f1e0d8b7c6a,1004829356,11498432,5,The High-Performance Laptop exceeds expectations. Great for work and gaming.,2023-09-14
+e4b6c5d8-5d8e-6a9b-7c0d-2e3f9b8c7d6e,1109572846,12485976,2,The Electric Toothbrush is effective but the battery life is disappointing.,2023-09-06
+f5c7d8e9-6c9d-7a0b-8e1d-3f4e5b6c8d9f,1204827395,13492857,4,The Smartwatch has a sleek design. Struggles with syncing notifications sometimes.,2023-09-19
+a6d8e7f9-7e0d-8a1b-9c2d-4e5f6c7b8d9e,1309582736,14589372,5,The Gaming Console provides an immersive experience. Fast loading times and great graphics.,2023-09-17
+b7e9f8d6-8c1d-9a2b-0e3d-5f6e7b4c8d9e,1409578263,15589243,3,The Portable Charger is convenient but doesn't fully charge my device.,2023-09-05
+c8f6d7e9-9d0e-1a3b-2e4d-6f7b5c8d9e0f,1504829731,16593842,4,"All-Natural Skincare Set works well, but the scent is too strong for my taste.",2023-09-08
+d9a6b7c8-0e2d-3a4b-5c6e-7f8e9d0b6c7a,1609572846,17589236,5,The Premium Coffee Maker brews excellent coffee and is easy to clean.,2023-09-20
+e0b9c8d7-1c3d-4a5b-6e7d-8f9e0b8d7c6f,1704827395,18594327,2,The Digital Camera has great features but struggles with low-light conditions.,2023-09-04
+f1c8d9e0-2d4e-3a6b-7c8d-9f0e1b9d8c7e,1809572936,19589342,4,The Bluetooth Speaker has impressive sound quality. Battery life could be better.,2023-09-18
+a2d9e0b1-3c5d-4a7b-8e9d-0f1e2b9c8d7f,1904827356,20598436,5,The Home Gym Equipment is sturdy and offers a great variety of exercises.,2023-09-10
+b3e9f0d2-4c6d-5a8b-9c0d-1e2f3b8c7d9e,2009572843,21589347,3,The Smart Refrigerator is innovative but has connectivity issues.,2023-09-12
+c4f0d1e3-5d7e-6a9b-0c2d-3e4f5b6c8d9e,2104827396,22589356,4,The Air Purifier does a good job but is louder than expected.,2023-09-15
+d5a1b3c4-6e8d-0a2b-1c3d-4f5e6b7c8d9e,2209572836,23598276,5,The Luxury Bedding Set is incredibly comfortable and stylish.,2023-09-11
+e6b2c4d5-7d9e-1a3b-2c4d-5f6e7c8d9e0f,2304827395,24589347,2,The Fitness App has potential but lacks detailed workout plans.,2023-09-07
+f7c3d5e6-8e0d-2a3b-3d5e-6f7b8c9d0e1f,2409572946,25589234,4,The Smart Lighting System is easy to install but sometimes unresponsive.,2023-09-14
+a8e0f1d2-9c3d-4a5b-5e6d-7f8e9d0b1c2a,2504827356,26589342,5,The Electric Grill is perfect for outdoor cooking. Heats evenly and quickly.,2023-09-16
+fbf1e1b5-0839-4d00-8c92-1c8c5e09bd5a,1000000521,12345678,5,Absolutely love the Pro-Gamer Mouse! It's precise and comfortable for long gaming sessions.,2023-01-15
+2d4f5b7a-6b3a-4bda-9c13-5b5d3d5c1e33,1000000543,87654321,4,"The SmartLamp 3000 is great, but I wish it had more color options.",2023-02-10
+4c8a0e8a-c2a3-4f0c-b4ab-9e9f3f4c5a1e,1000000652,23456781,3,"The sound quality of the headphones is decent, but they are a bit uncomfortable for extended use.",2023-03-05
+7d5c3f8f-5f1b-4d5a-8a3c-0c9d6e4f5d7a,1000000784,34567812,5,Incredible vacuum cleaner! It makes cleaning so much easier and faster.,2023-04-12
+6f8c4d9a-8e5b-4c2b-9b0e-1f5f3d2c7a1e,1000000823,45678123,2,The fitness tracker stopped working after a month. Very disappointed.,2023-05-20
+8e9f1d2b-7c4f-4a0b-8c9d-5b3a7f2e1c0a,1000000941,56781234,4,The kitchen blender works well but is a bit noisy.,2023-06-18
+9a0e8c1d-5f4a-4b0c-8a3f-2d6e1b7c5f3a,1000001072,67812345,5,Best smartphone I've ever owned! The camera quality is outstanding.,2023-07-25
+0c9d5f3a-4b1e-4a8c-9f0e-7b2d1c5f6a3a,1000001145,78123456,3,"The smartwatch is okay, but the battery life could be better.",2023-08-15
+2b0e7d5c-1f4a-4a9b-8c6d-5f3a7c9d0e1c,1000001256,81234567,4,The air purifier has significantly improved the air quality in my home.,2023-09-03
+1c0a9f8e-3b5a-4d7c-8a1c-9d0e5f2b7f4a,1000001349,91234567,2,Not impressed with the electric toothbrush. It doesn't clean as well as expected.,2023-10-06
+3f2b0e1c-5d6a-4d9b-8c7f-1e0a9c5f4a8d,1000001453,12345679,5,Absolutely love the soundbar! It enhances my TV experience significantly.,2023-11-14
+4a7c9d0e-1f2b-4a8c-9f3a-5b6d7f1c0e9a,1000001567,23456789,4,"The coffee maker is great, but it takes a bit long to brew.",2023-12-02
+5d0e3f2b-1c4a-4d7c-8f9b-2a9c6b7e1f5a,1000001678,34567890,3,"The electric shaver is decent, but it misses some spots.",2023-12-15
+6b7f1c0e-4a8d-4c9b-8e2f-5d0a3f6b7c1e,1000001782,45678901,5,I love this electric scooter! It's convenient and fun to ride.,2023-11-25
+7e0a9f5c-3b6d-4d8a-9c2b-1f4a7c5b8d0e,1000001893,56789012,4,"The wireless earbuds work well, but they sometimes lose connection.",2023-10-12
+8d1c3f6a-5b7e-4a9d-8c2f-0e9b4f3c1a7d,1000001904,67890123,3,The laptop bag is stylish but lacks enough compartments for organization.,2023-09-07
+9c0a7f5d-3b8c-4a1d-9e2f-0b4a7c5f8d1e,1000002051,78901234,5,The smartwatch is perfect for tracking my fitness goals. It's very user-friendly.,2023-08-19
+0b4a9c5f-2b7d-4a8c-9e1f-6c3a0e5f1d7b,1000002163,89012345,2,The hairdryer stopped working after a few uses. Very disappointed.,2023-07-22
+1a0e5f3b-9c2d-4a7f-8b1e-3f6b0a4d9c7e,1000002274,90123456,4,"The microwave oven is efficient, but the buttons are a bit hard to press.",2023-06-30
+2f6b1a7e-0c9d-4d8a-9b3f-5c0a7d1e4f9a,1000002385,12345680,5,The electric blanket is a lifesaver during cold nights. Highly recommend!,2023-05-11
+3b5a8d1c-0f9e-4a2d-9c7f-1e6b4a5d0b3a,1000002496,23456780,3,"The digital camera takes good pictures, but the battery drains quickly.",2023-04-01
+4c9d0e5b-3a7d-4f8a-9c1e-2b6a7f5d0c9e,1000002507,34567881,4,The robotic vacuum is handy but gets stuck on rugs occasionally.,2023-03-22
+5e1c3a9f-8b7d-4d2a-9f0b-6a5c9d0e7f3a,1000002608,45678912,5,The standing desk is fantastic for my home office. It’s sturdy and easy to adjust.,2023-02-04
+6b7f4e3c-2a9d-4c8d-9a1b-0e5f6a7d1b3c,1000002719,56789023,4,"The wireless charger is convenient, but it heats up sometimes.",2023-01-18
+7d3e1c5a-8f2b-4a9c-9d0e-4b7a6f9c0d1e,1000002820,67890134,3,"The smart thermostat is good, but the app is a bit glitchy.",2023-02-25

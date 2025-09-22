@@ -1,11 +1,101 @@
 campaign_id,campaign_name,campaign_type,start_date,end_date,budget,target_audience
-CMP000000000001,Summer Road Trip Adventure,Travel,06/01/2023,08/31/2023,150000.00,Young Adults and Families
-CMP000000000002,Back to School Essentials,Retail,07/15/2023,09/05/2023,200000.00,Parents and Students
-CMP000000000003,Eco-Friendly Living,Sustainability,04/22/2023,05/31/2023,50000.00,Environmentally Conscious Adults
-CMP000000000004,Ultimate Gaming Gear,Electronics,11/01/2023,12/31/2023,300000.00,Gamers and Tech Enthusiasts
-CMP000000000005,Holiday Gift Guide,Retail,11/15/2023,12/25/2023,250000.00,Holiday Shoppers
-CMP000000000006,Healthy Living Challenge,Health,01/01/2023,02/28/2023,100000.00,Health Enthusiasts
-CMP000000000007,Spring Fashion Collection,Fashion,03/01/2023,04/30/2023,180000.00,Fashion Forward Adults
-CMP000000000008,Pet Care Awareness,Pet Care,05/15/2023,07/15/2023,75000.00,Pet Owners
-CMP000000000009,Tech Innovations Expo,Technology,09/01/2023,09/30/2023,500000.00,Tech Industry Professionals
-CMP000000000010,Luxury Real Estate Showcase,Real Estate,10/01/2023,11/30/2023,250000.00,High Net Worth Individuals
+CMP123456789012,Eco-Friendly Living,Awareness,08/01/2023,12/31/2023,500000.00,Environmentally conscious adults
+CMP223456789012,Tech Savvy Teens,Engagement,07/15/2023,11/15/2023,300000.00,Teenagers interested in technology
+CMP323456789012,Healthy Lifestyle,Promotion,09/01/2023,11/30/2023,250000.00,Health-conscious adults
+CMP423456789012,Back to School Sale,Discount,08/15/2023,09/15/2023,150000.00,Parents and students
+CMP523456789012,Luxury Car Launch,Launch,10/01/2023,12/31/2023,1000000.00,High-income individuals
+CMP623456789012,Summer Fitness Challenge,Challenge,06/01/2023,08/31/2023,400000.00,Fitness enthusiasts
+CMP723456789012,Winter Travel Deals,Promotion,11/01/2023,01/15/2024,350000.00,Travel enthusiasts
+CMP823456789012,Gadget Giveaway,Contest,09/15/2023,10/31/2023,200000.00,Tech enthusiasts
+CMP923456789012,Home Renovation Expo,Exhibition,10/10/2023,10/20/2023,50000.00,Homeowners
+CMP1023456789012,Organic Food Fair,Fair,09/05/2023,09/10/2023,100000.00,Organic food lovers
+CMP1123456789012,Fashion Week Extravaganza,Event,09/20/2023,09/27/2023,750000.00,Fashion enthusiasts
+CMP1223456789012,Pet Lovers' Festival,Festival,10/05/2023,10/07/2023,120000.00,Pet owners
+CMP1323456789012,Music Fest 2023,Concert,08/25/2023,08/27/2023,600000.00,Music lovers
+CMP1423456789012,Adventure Sports Weekend,Event,09/15/2023,09/17/2023,180000.00,Adventure seekers
+CMP1523456789012,Book Lovers' Month,Promotion,09/01/2023,09/30/2023,90000.00,Book enthusiasts
+CMP1623456789012,Culinary Delights,Workshop,10/02/2023,10/06/2023,130000.00,Foodies
+CMP1723456789012,Digital Marketing Summit,Conference,11/10/2023,11/12/2023,250000.00,Marketing professionals
+CMP1823456789012,Art and Culture Expo,Exhibition,12/01/2023,12/05/2023,220000.00,Art and culture enthusiasts
+CMP1923456789012,Winter Fashion Sale,Sale,11/20/2023,12/31/2023,150000.00,Fashion-conscious shoppers
+CMP2023456789012,Spring Gardening Tips,Education,03/01/2023,03/31/2023,50000.00,Gardening enthusiasts
+CMP2123456789012,Innovative Tech Solutions,Launch,09/01/2023,09/30/2023,800000.00,Tech industry professionals
+CMP2223456789012,All About Kids,Promotion,10/15/2023,11/15/2023,160000.00,Parents of young children
+CMP2323456789012,Fitness Gear Blowout,Sale,08/01/2023,08/31/2023,140000.00,Fitness shoppers
+CMP2423456789012,Home Decor Trends,Educational,09/10/2023,09/24/2023,110000.00,Home decorators
+CMP2523456789012,E-Sports Arena,Tournament,11/01/2023,11/05/2023,300000.00,E-sports enthusiasts
+CMP001234567890,Summer Fitness Blast,Health & Fitness,06/01/2023,08/31/2023,100000.00,Young Adults 18-25
+CMP001234567891,Tech Innovations Expo,Technology,09/15/2023,09/17/2023,250000.00,Tech Enthusiasts
+CMP001234567892,Back to School Sale,Retail,08/01/2023,08/31/2023,50000.00,Parents & Students
+CMP001234567893,Winter Wonderland,Travel,12/01/2023,12/31/2023,150000.00,Families
+CMP001234567894,Vegan Lifestyle Week,Food & Beverage,11/01/2023,11/07/2023,30000.00,Vegans & Vegetarians
+CMP001234567895,Luxury Car Showcase,Automotive,10/10/2023,10/13/2023,500000.00,Car Enthusiasts
+CMP001234567896,Artisan Craft Fair,Arts & Crafts,07/15/2023,07/20/2023,20000.00,Craft Lovers
+CMP001234567897,Fitness New Year Revolution,Health,01/01/2023,01/15/2023,80000.00,Fitness Enthusiasts
+CMP001234567898,Spring Gardening Fest,Home & Garden,04/01/2023,04/30/2023,40000.00,Gardeners
+CMP001234567899,Music Festival Mania,Entertainment,05/21/2023,05/23/2023,300000.00,Music Lovers
+CMP001234567900,Home Renovation Expo,Home Improvement,06/15/2023,06/18/2023,120000.00,Homeowners
+CMP001234567901,Gourmet Food Fair,Culinary,07/05/2023,07/07/2023,70000.00,Foodies
+CMP001234567902,Autumn Fashion Week,Fashion,10/01/2023,10/07/2023,200000.00,Fashionistas
+CMP001234567903,Pet Adoption Drive,Animal Welfare,09/01/2023,09/30/2023,15000.00,Animal Lovers
+CMP001234567904,Digital Marketing Summit,Business,08/10/2023,08/12/2023,180000.00,Marketing Professionals
+CMP001234567905,Eco-Friendly Living,Environment,04/22/2023,04/29/2023,60000.00,Eco-conscious Individuals
+CMP001234567906,Luxury Travel Showcase,Travel,11/15/2023,11/20/2023,400000.00,Luxury Travelers
+CMP001234567907,National Book Fair,Literature,03/01/2023,03/05/2023,45000.00,Book Lovers
+CMP001234567908,Digital Art Exhibition,Art & Design,09/09/2023,09/12/2023,85000.00,Art Enthusiasts
+CMP001234567909,International Film Festival,Entertainment,12/05/2023,12/10/2023,500000.00,Film Buffs
+CMP001234567910,Fitness and Wellness Retreat,Health & Wellness,02/20/2023,02/27/2023,120000.00,Wellness Seekers
+CMP001234567911,Green Tech Conference,Technology,11/05/2023,11/08/2023,220000.00,Tech Innovators
+CMP001234567912,Culinary Arts Festival,Food & Drink,08/25/2023,08/28/2023,95000.00,Culinary Enthusiasts
+CMP001234567913,Global Business Summit,Business,06/05/2023,06/08/2023,300000.00,Business Leaders
+CMP001234567914,Adventure Travel Fair,Adventure,10/22/2023,10/25/2023,180000.00,Adventurers
+CMP123456789012,Eco-Friendly Homes Launch,Product Launch,03/01/2023,03/31/2023,500000.00,Homeowners and renters
+CMP987654321098,Summer Travel Deals,Seasonal Promotion,05/01/2023,06/15/2023,250000.00,Frequent travelers
+CMP112233445566,Back to School Essentials,Seasonal Promotion,07/15/2023,08/31/2023,400000.00,Parents and students
+CMP998877665544,Winter Warmth Collection,Product Launch,11/01/2023,12/15/2023,300000.00,Fashion enthusiasts
+CMP556677889900,Healthy Living Expo,Event,02/10/2023,02/12/2023,150000.00,Health-conscious individuals
+CMP667788990011,Tech Innovations 2023,Conference,06/20/2023,06/22/2023,750000.00,Tech professionals
+CMP223344556677,Luxury Car Show,Event,09/05/2023,09/07/2023,800000.00,Car enthusiasts
+CMP334455667788,Organic Food Fair,Event,04/15/2023,04/17/2023,200000.00,Organic food lovers
+CMP445566778899,Fitness Gear Mega Sale,Sale,01/05/2023,01/20/2023,350000.00,Fitness enthusiasts
+CMP556677889911,Home Decor Trends,Product Launch,10/10/2023,11/10/2023,450000.00,Interior design fans
+CMP667788990122,Gourmet Food Festival,Event,08/25/2023,08/27/2023,275000.00,Foodies
+CMP778899001122,Spring Fashion Week,Fashion Show,04/10/2023,04/14/2023,600000.00,Fashion industry
+CMP889900112233,Digital Marketing Summit,Conference,10/20/2023,10/22/2023,500000.00,Marketing professionals
+CMP990011223344,Pet Care Expo,Event,03/05/2023,03/07/2023,100000.00,Pet owners
+CMP110022334455,Green Energy Solutions,Product Launch,05/10/2023,05/30/2023,550000.00,Environmentally conscious
+CMP221133445566,Photography Masterclass,Workshop,07/15/2023,07/16/2023,75000.00,Photography enthusiasts
+CMP332244556677,Wellness Retreat,Event,09/18/2023,09/20/2023,300000.00,Wellness seekers
+CMP443355667788,Autumn Art Fair,Exhibition,11/01/2023,11/05/2023,200000.00,Art lovers
+CMP554466778899,Gadget Expo 2023,Trade Show,06/01/2023,06/03/2023,700000.00,Technology enthusiasts
+CMP665577889900,Culinary Masterpieces,Event,08/10/2023,08/12/2023,250000.00,Gourmet chefs
+CMP776688990011,Virtual Reality Conference,Conference,10/05/2023,10/07/2023,550000.00,VR developers
+CMP887799001122,Sports Gear Expo,Trade Show,02/15/2023,02/17/2023,400000.00,Athletes
+CMP998800112233,Gardening Extravaganza,Event,05/20/2023,05/22/2023,150000.00,Gardeners
+CMP110099223344,Digital Art Showcase,Exhibition,07/05/2023,07/07/2023,180000.00,Digital artists
+CMP221100334455,Luxury Travel Expo,Trade Show,11/15/2023,11/17/2023,900000.00,Luxury travelers
+CMP123456789012,Summer Fitness Challenge,Health & Fitness,06/01/2023,08/31/2023,100000.00,Fitness Enthusiasts
+CMP234567890123,Tech Innovation Expo,Technology,09/15/2023,09/17/2023,75000.00,Tech Professionals
+CMP345678901234,Winter Fashion Gala,Fashion,12/01/2023,12/31/2023,150000.00,Fashion Enthusiasts
+CMP456789012345,Organic Food Fest,Food & Beverage,03/21/2023,03/23/2023,50000.00,Health-Conscious Individuals
+CMP567890123456,Back to School Bonanza,Retail,08/01/2023,09/05/2023,120000.00,Parents & Students
+CMP678901234567,Autumn Adventure Sale,Travel,09/01/2023,11/30/2023,200000.00,Adventure Travelers
+CMP789012345678,Pet Lovers Expo,Pet Care,10/10/2023,10/12/2023,40000.00,Pet Owners
+CMP890123456789,Financial Freedom Seminar,Finance,07/15/2023,07/17/2023,60000.00,Young Professionals
+CMP901234567890,Eco-Friendly Living Workshop,Environment,04/22/2023,04/22/2023,25000.00,Environment Enthusiasts
+CMP012345678901,Gourmet Food Festival,Food & Beverage,05/20/2023,05/22/2023,75000.00,Food Lovers
+CMP112345678902,Digital Marketing Mastery,Education,08/10/2023,08/12/2023,50000.00,Marketing Professionals
+CMP223456789013,Luxury Car Showcase,Automotive,11/05/2023,11/07/2023,300000.00,Car Enthusiasts
+CMP334567890124,Spring Home Improvement Fair,Home & Garden,04/01/2023,04/03/2023,85000.00,Homeowners
+CMP445678901235,Music Festival Extravaganza,Entertainment,07/20/2023,07/23/2023,200000.00,Music Lovers
+CMP556789012346,Art & Craft Fair,Art & Culture,06/15/2023,06/18/2023,35000.00,Art Enthusiasts
+CMP667890123457,Technology Trade Show,Technology,10/18/2023,10/20/2023,100000.00,Tech Entrepreneurs
+CMP778901234568,Wellness Retreat Weekend,Health & Wellness,09/08/2023,09/10/2023,120000.00,Wellness Seekers
+CMP889012345679,Innovative Startups Conference,Business,05/10/2023,05/12/2023,95000.00,Entrepreneurs
+CMP990123456780,Green Living Expo,Environment,06/05/2023,06/07/2023,70000.00,Eco-Friendly Consumers
+CMP101234567891,Culinary Arts Show,Food & Beverage,10/02/2023,10/04/2023,55000.00,Culinary Experts
+CMP212345678902,Fashion Week Extravaganza,Fashion,09/20/2023,09/25/2023,250000.00,Fashion Industry Professionals
+CMP323456789013,Home & Lifestyle Expo,Home & Garden,08/25/2023,08/27/2023,100000.00,Home Decor Enthusiasts
+CMP434567890124,Film & Media Summit,Entertainment,11/15/2023,11/18/2023,180000.00,Film Enthusiasts
+CMP545678901235,Automobile Tech Fair,Automotive,07/02/2023,07/04/2023,160000.00,Automobile Engineers
+CMP656789012346,Yoga & Meditation Retreat,Health & Wellness,05/18/2023,05/21/2023,80000.00,Yoga Practitioners
