@@ -1,11 +1,11 @@
 campaign_id,campaign_name,campaign_type,start_date,end_date,budget,target_audience
-CMP00000000001,Summer Splash Sale,Seasonal,06/01/2023,06/30/2023,50000.00,Families with children
-CMP00000000002,Back to School Bonanza,Promotional,08/01/2023,08/31/2023,75000.00,Parents and Students
-CMP00000000003,Winter Wonderland Deals,Seasonal,12/01/2023,12/31/2023,60000.00,Holiday Shoppers
-CMP00000000004,"New Year, New You",Wellness,01/01/2024,01/31/2024,40000.00,Health Enthusiasts
-CMP00000000005,Tech Innovations Expo,Exhibition,03/15/2023,03/20/2023,150000.00,Tech Professionals
-CMP00000000006,Spring Fashion Launch,Fashion,04/01/2023,04/30/2023,80000.00,Fashionistas
-CMP00000000007,Eco-Friendly Living,Environmental,05/01/2023,05/31/2023,35000.00,Environmentally Conscious
-CMP00000000008,Gourmet Food Festival,Culinary,07/10/2023,07/15/2023,90000.00,Food Lovers
-CMP00000000009,Fitness for All,Health,09/01/2023,09/30/2023,55000.00,Fitness Enthusiasts
-CMP00000000010,Art and Culture Fest,Cultural,11/01/2023,11/15/2023,70000.00,Art Aficionados
+CMP000000000001,Summer Road Trip Adventure,Travel,06/01/2023,08/31/2023,150000.00,Young Adults and Families
+CMP000000000002,Back to School Essentials,Retail,07/15/2023,09/05/2023,200000.00,Parents and Students
+CMP000000000003,Eco-Friendly Living,Sustainability,04/22/2023,05/31/2023,50000.00,Environmentally Conscious Adults
+CMP000000000004,Ultimate Gaming Gear,Electronics,11/01/2023,12/31/2023,300000.00,Gamers and Tech Enthusiasts
+CMP000000000005,Holiday Gift Guide,Retail,11/15/2023,12/25/2023,250000.00,Holiday Shoppers
+CMP000000000006,Healthy Living Challenge,Health,01/01/2023,02/28/2023,100000.00,Health Enthusiasts
+CMP000000000007,Spring Fashion Collection,Fashion,03/01/2023,04/30/2023,180000.00,Fashion Forward Adults
+CMP000000000008,Pet Care Awareness,Pet Care,05/15/2023,07/15/2023,75000.00,Pet Owners
+CMP000000000009,Tech Innovations Expo,Technology,09/01/2023,09/30/2023,500000.00,Tech Industry Professionals
+CMP000000000010,Luxury Real Estate Showcase,Real Estate,10/01/2023,11/30/2023,250000.00,High Net Worth Individuals

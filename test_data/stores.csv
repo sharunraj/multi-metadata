@@ -1,11 +1,11 @@
 store_id,store_name,street_address,city,state_code,zip_code,store_phone,opening_date
-10234,Downtown Books,123 Main Street,Springfield,IL,62701,217-555-0101,2015/06/15
-20457,Tech Haven,456 Technology Drive,San Jose,CA,95112,408-555-0199,2018/09/30
-30789,Gourmet Grocers,789 Food Lane,Austin,TX,78701,512-555-0234,2020/03/01
-40876,Fashion Forward,321 Style Street,New York,NY,10001,212-555-0456,2016/07/23
-50912,Pet Paradise,654 Animal Ave,Miami,FL,33101,305-555-0789,2017/11/10
-61234,Outdoor Adventure,987 Trail Road,Denver,CO,80202,303-555-0987,2019/05/20
-71345,Home Essentials,123 Comfort Blvd,Houston,TX,77001,713-555-1122,2014/01/15
-81456,Kids Kingdom,456 Fun Street,Orlando,FL,32801,407-555-1345,2018/08/08
-92834,Electro World,789 Circuit Ave,Seattle,WA,98101,206-555-1678,2019/10/12
-10345,Culinary Corner,321 Gourmet St,Boston,MA,02101,617-555-1902,2021/04/05
+10001,Green Valley Grocers,123 Market Street,Denver,CO,80203,303-555-0123,2015/06/15
+10002,Tech Haven,456 Silicon Avenue,San Jose,CA,95110,408-555-0145,2018/09/20
+10003,Book Nook,789 Library Lane,Portland,OR,97201,503-555-0198,2012/04/10
+10004,Fashion Forward,101 Style Street,New York,NY,10001,212-555-0217,2020/03/05
+10005,Pet Paradise,202 Critter Circle,Austin,TX,73301,512-555-0233,2016/08/12
+10006,Gadget Galaxy,303 Tech Parkway,Seattle,WA,98101,206-555-0258,2014/11/24
+10007,Fitness First,404 Workout Way,Chicago,IL,60601,312-555-0279,2019/07/15
+10008,Home Essentials,505 Comfort Court,Miami,FL,33101,305-555-0293,2013/02/28
+10009,Garden Goods,606 Greenway Drive,Atlanta,GA,30301,404-555-0312,2011/05/14
+10010,Culinary Corner,707 Spice Street,New Orleans,LA,70112,504-555-0338,2017/10/30

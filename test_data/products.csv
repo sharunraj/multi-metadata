@@ -1,11 +1,11 @@
 product_id,product_name,description,category,unit_price,sku,launch_date
-10000001,Eco-Friendly Water Bottle,"A reusable water bottle made from recycled materials, perfect for everyday hydration.",Home & Living,19.99,ECOBOTL001,2022-03-15
-10000002,Ultra-Comfort Running Shoes,Lightweight running shoes designed for maximum comfort and performance.,Sports & Outdoors,89.95,RUNSHOE2021,2021-06-10
-10000003,Smart Home Speaker,Voice-activated smart speaker with high-quality sound and integration with smart home devices.,Electronics,129.00,SMARTHOME001,2023-01-25
-10000004,Organic Green Tea,Premium organic green tea leaves sourced directly from sustainable farms.,Food & Beverage,14.50,OGTEALEAVES,2022-11-08
-10000005,Wireless Headphones,Noise-cancelling wireless headphones with up to 30 hours of battery life.,Electronics,199.99,WIRELESSHEAD,2023-04-02
-10000006,Adjustable Yoga Mat,High-density yoga mat with adjustable thickness for optimal comfort and support.,Sports & Outdoors,45.00,YOGAMATADJ,2022-07-19
-10000007,Luxury Scented Candle,Hand-poured scented candle with a blend of essential oils for a soothing aroma.,Home & Living,25.99,LUXCANDLE,2021-12-05
-10000008,Gaming Laptop,High-performance gaming laptop with the latest graphics card and processor.,Electronics,1499.00,GAMELAPTOP,2023-09-17
-10000009,Eco-Friendly Detergent,Biodegradable detergent that effectively cleans clothes without harming the environment.,Home & Living,12.75,ECODETERGNT,2022-05-23
-10000010,Professional Chef Knife,Precision chef knife made from high-quality stainless steel for effortless chopping.,Kitchen & Dining,79.99,CHEFKNIFE01,2021-03-30
+10000001,Pro-Gamer Mouse,High precision wireless mouse for professional gamers.,Electronics,59.99,PGM-2023-001,2023-06-15
+10000002,Eco-Friendly Water Bottle,Reusable stainless steel bottle with a capacity of 1 liter.,Home & Kitchen,24.95,ECOBOTTLE-XL,2022-09-01
+10000003,Smart Home Hub,Centralized control system for all smart home devices.,Smart Home,129.50,SMART-HUB-2023,2023-03-10
+10000004,Noise Cancelling Headphones,Over-ear headphones with active noise cancellation.,Audio,199.99,NC-HEADPHONES,2022-11-20
+10000005,4K Ultra HD TV,65-inch television with stunning 4K resolution.,Television,899.00,4KTV-65INCH,2023-02-25
+10000006,Ergonomic Office Chair,Comfortable office chair with lumbar support.,Furniture,149.75,ERG-OFFICE-CHAIR,2023-05-01
+10000007,Wireless Bluetooth Speaker,Portable speaker with excellent sound quality and battery life.,Audio,79.95,BT-SPEAKER-PORT,2023-07-30
+10000008,Smart Fitness Tracker,Wearable device to monitor fitness activities and health metrics.,Wearable,99.99,FIT-TRACKER-SMART,2022-12-11
+10000009,Digital Drawing Tablet,Graphic tablet for artists and designers with stylus pen.,Computers,349.99,DRAW-TABLET-PRO,2023-08-05
+10000010,Advanced Yoga Mat,"Non-slip, extra thick yoga mat for enhanced comfort.",Sports,45.50,YOGA-MAT-ADV,2023-04-18

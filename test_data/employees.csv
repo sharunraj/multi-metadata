@@ -1,11 +1,11 @@
 employee_id,first_name,last_name,work_email,phone_number,job_title,department,hire_date,salary
-EMP0000123,John,Doe,john.doe@lawfirm.com,312-555-0192,Lawyer,Legal,05-10-2015,120000.00
-EMP0000456,Jane,Smith,jane.smith@artworld.com,212-555-0873,Art Director,Creative,11-22-2018,95000.00
-EMP0000789,Michael,Johnson,michael.johnson@techcorp.com,415-555-1234,Software Engineer,IT,03-15-2019,110000.00
-EMP0001011,Emily,Brown,emily.brown@fashionhub.com,646-555-2345,Fashion Designer,Design,08-25-2017,80000.00
-EMP0001213,Robert,Davis,robert.davis@financeplus.com,312-555-3456,Financial Analyst,Finance,02-12-2020,85000.00
-EMP0001415,Linda,Taylor,linda.taylor@mediagroup.com,213-555-4567,Media Planner,Marketing,06-30-2016,75000.00
-EMP0001617,David,Martinez,david.martinez@foodcorp.com,305-555-5678,Chef,Culinary,09-10-2014,70000.00
-EMP0001819,Susan,Wilson,susan.wilson@healthcare.com,713-555-6789,Nurse,Healthcare,01-25-2013,68000.00
-EMP0002021,James,Anderson,james.anderson@retailers.com,917-555-7890,Store Manager,Operations,04-17-2012,65000.00
-EMP0002223,Patricia,Clark,patricia.clark@travelagency.com,702-555-8901,Travel Agent,Customer Service,07-19-2011,60000.00
+EMP0001234,Sophia,Johnson,sophia.johnson@techcorp.com,415-555-0123,Software Engineer,Engineering,06-15-2018,95000.00
+EMP0005678,Michael,Smith,michael.smith@financesolutions.com,212-555-0456,Financial Analyst,Finance,03-22-2016,85000.00
+EMP0002345,Emma,Brown,emma.brown@medicoresearch.com,213-555-0789,Clinical Researcher,Research,11-01-2019,77000.00
+EMP0003456,Ethan,Taylor,ethan.taylor@lawfirm.com,312-555-0987,Attorney,Legal,02-10-2014,120000.00
+EMP0004567,Isabella,Anderson,isabella.anderson@designstudio.com,646-555-0234,Graphic Designer,Design,08-20-2020,68000.00
+EMP0005679,Lucas,Martinez,lucas.martinez@hospitalcare.com,305-555-0456,Nurse,Healthcare,04-12-2017,62000.00
+EMP0006789,Ava,Garcia,ava.garcia@marketinghub.com,718-555-0678,Marketing Specialist,Marketing,05-28-2019,70000.00
+EMP0007890,James,Wilson,james.wilson@educationsystem.com,202-555-0789,Teacher,Education,09-05-2015,55000.00
+EMP0008901,Olivia,Lee,olivia.lee@retailnetwork.com,713-555-0890,Store Manager,Retail,01-17-2018,64000.00
+EMP0009012,William,Harris,william.harris@constructionco.com,702-555-0123,Project Manager,Construction,07-30-2013,105000.00
