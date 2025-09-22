@@ -1,101 +1,11 @@
 product_id,product_name,description,category,unit_price,sku,launch_date
-10000001,Eco-Friendly Water Bottle,A sustainable and reusable water bottle made from recycled materials.,Outdoor Gear,15.99,ECO-WB-2023,2023-03-15
-10000002,Wireless Earbuds Pro,High-fidelity sound with noise-cancellation technology.,Electronics,129.99,WB-PRO-2023,2023-01-10
-10000003,Organic Cotton T-Shirt,Comfortable and eco-friendly cotton t-shirt in various colors.,Apparel,22.50,ORG-TEE-2023,2023-05-20
-10000004,Smart Home Speaker,Voice-activated speaker with integrated AI assistant.,Home Electronics,89.99,SHS-2023,2023-02-25
-10000005,Vegan Protein Powder,Plant-based protein powder for athletes and fitness enthusiasts.,Health & Fitness,34.99,VEG-PRO-2023,2023-06-01
-10000006,Luxury Leather Wallet,Handcrafted wallet made from premium Italian leather.,Accessories,79.99,LLW-2023,2023-04-18
-10000007,4K Ultra HD Television,Experience cinema-quality visuals in the comfort of your home.,Home Entertainment,499.99,4K-TV-2023,2023-09-05
-10000008,Electric Mountain Bike,High-performance electric bike for off-road adventures.,Outdoor Gear,899.99,E-MTB-2023,2023-07-12
-10000009,Ergonomic Office Chair,Comfortable chair designed to support your posture during long hours of work.,Office Furniture,199.99,EOC-2023,2023-08-08
-10000010,Smartphone Camera Lens Kit,Enhance your smartphone photography with this versatile lens kit.,Photography,49.99,SCL-KIT-2023,2023-11-15
-10000011,Portable Solar Charger,Charge your devices on the go with this eco-friendly solar charger.,Outdoor Gear,39.99,PSC-2023,2023-05-05
-10000012,Bluetooth Fitness Tracker,Track your daily activities and health metrics with ease.,Health & Fitness,59.99,BFT-2023,2023-03-22
-10000013,Cordless Vacuum Cleaner,Lightweight and powerful vacuum cleaner for effortless cleaning.,Home Appliances,149.99,CVC-2023,2023-06-30
-10000014,Artisan Espresso Machine,Brew barista-quality espresso at home with this sophisticated machine.,Kitchen Appliances,249.99,AEM-2023,2023-07-25
-10000015,Noise-Cancelling Headphones,Immerse yourself in music with these premium noise-cancelling headphones.,Audio,199.99,NCH-2023,2023-10-01
-10000016,Bamboo Cutlery Set,Eco-friendly cutlery set made from sustainable bamboo.,Kitchenware,12.99,BAM-CUT-2023,2023-02-07
-10000017,LED Desk Lamp,Adjustable LED lamp with multiple brightness settings for optimal lighting.,Office Supplies,24.99,LED-LAMP-2023,2023-01-15
-10000018,Collapsible Travel Mug,Convenient and space-saving mug for travelers.,Travel Accessories,18.99,COL-MUG-2023,2023-04-02
-10000019,Smart Thermostat,Control your home's temperature remotely with this smart thermostat.,Home Automation,129.99,SMT-2023,2023-09-30
-10000020,Pet Hair Remover Roller,Efficiently remove pet hair from furniture and clothing.,Pet Supplies,16.99,PHR-2023,2023-03-02
-10000021,Compact Air Purifier,Breathe easy with this compact and efficient air purifier.,Home Appliances,89.99,CAP-2023,2023-05-18
-10000022,Electric Toothbrush Set,Advanced electric toothbrush for a thorough clean.,Personal Care,99.99,ETB-2023,2023-11-22
-10000023,Stainless Steel Cookware,Durable and high-quality cookware set for all your culinary needs.,Kitchenware,199.99,SSC-2023,2023-06-10
-10000024,Fitness Yoga Mat,Non-slip yoga mat with extra cushioning for comfort.,Health & Fitness,29.99,FYM-2023,2023-08-20
-10000025,Digital Drawing Tablet,Create stunning digital art with this high-resolution drawing tablet.,Electronics,349.99,DDT-2023,2023-12-05
-10000001,UltraComfort Sofa,A luxurious three-seater sofa with plush cushions and a modern design.,Furniture,899.99,UCS-00001,2022-03-15
-10000002,EcoBrew Coffee Maker,A sustainable coffee maker with a reusable filter and energy-saving features.,Kitchen Appliances,129.95,EBM-00002,2021-11-10
-10000003,GamerX Pro Headset,High-quality gaming headset with surround sound and noise-canceling microphone.,Electronics,159.49,GXP-00003,2023-01-20
-10000004,FitFlex Yoga Mat,Non-slip yoga mat with extra padding for optimal comfort during workouts.,Sports & Outdoors,35.99,FFY-00004,2022-08-05
-10000005,SmartClean Vacuum,Advanced vacuum cleaner with smart navigation and powerful suction.,Home Appliances,299.99,SCV-00005,2021-09-12
-10000006,PureSound Bluetooth Speaker,Portable Bluetooth speaker with crystal-clear sound and long battery life.,Electronics,74.99,PBS-00006,2023-04-18
-10000007,ChefMaster Knife Set,Professional-grade knife set with ergonomic handles and durable blades.,Kitchen,119.95,CMK-00007,2022-05-25
-10000008,EcoPure Water Bottle,Reusable water bottle made from eco-friendly materials with a sleek design.,Outdoor,19.99,EPW-00008,2020-10-30
-10000009,LuxSleep Mattress,Memory foam mattress designed for ultimate comfort and support.,Bedding,699.00,LSM-00009,2022-07-14
-10000010,TravelEase Backpack,Durable and stylish backpack with multiple compartments for easy organization.,Travel,89.50,TEB-00010,2021-03-22
-10000011,PowerMax Drill,Cordless drill with high torque and long-lasting battery for heavy-duty tasks.,Tools,149.99,PMD-00011,2020-12-01
-10000012,StyleWave Hair Dryer,Fast-drying hair dryer with multiple heat settings and a compact design.,Personal Care,45.99,SWD-00012,2023-02-10
-10000013,SunChaser Sunglasses,Polarized sunglasses with UV protection and a trendy frame design.,Fashion,59.99,SCS-00013,2021-05-15
-10000014,HomeChef Blender,"High-speed blender for smoothies, soups, and shakes with a powerful motor.",Kitchen Appliances,89.99,HCB-00014,2022-09-18
-10000015,CloudSoft Pillow,Ultra-soft pillow with cooling technology for a comfortable night's sleep.,Bedding,39.95,CSP-00015,2021-11-28
-10000016,ActivePro Fitness Tracker,Fitness tracker with heart rate monitoring and GPS for active lifestyles.,Electronics,129.99,APT-00016,2023-06-30
-10000017,EcoShade Umbrella,Windproof umbrella with a sturdy frame and eco-friendly materials.,Outdoor,25.00,ESU-00017,2021-07-09
-10000018,GlowSkin Facial Cleanser,Gentle facial cleanser for all skin types with natural ingredients.,Personal Care,19.50,GSF-00018,2022-01-05
-10000019,TravelPro Luggage Set,Lightweight luggage set with spinner wheels for easy maneuverability.,Travel,199.99,TPL-00019,2020-06-20
-10000020,QuickHeat Electric Kettle,Electric kettle with rapid boiling technology and automatic shut-off.,Kitchen Appliances,49.99,QHK-00020,2022-04-11
-10000021,ComfyHome Slippers,Cozy slippers with memory foam insoles for indoor comfort.,Footwear,29.99,CHS-00021,2021-02-14
-10000022,PrecisionPro Digital Scale,High-precision digital scale for accurate weight measurement.,Home Appliances,35.00,PDS-00022,2020-08-07
-10000023,FlexiGrip Garden Gloves,Durable garden gloves with a flexible grip for comfortable gardening.,Outdoor,15.99,FGG-00023,2022-03-30
-10000024,VibeSound Earbuds,Wireless earbuds with superior sound quality and a sleek design.,Electronics,69.99,VSE-00024,2023-05-21
-10000025,UrbanStyle Backpack,Fashionable backpack with ample storage space and comfortable straps.,Fashion,79.99,USB-00025,2021-10-02
-10000001,EcoSmart Water Bottle,A sustainable water bottle made from recycled materials.,Home & Kitchen,19.99,ECO-WB-001,2022-03-15
-10000002,SolarTech Charger,Portable solar charger for all your devices.,Electronics,49.99,SOL-CHG-002,2021-08-10
-10000003,Gourmet Coffee Beans,Premium quality coffee beans sourced from Colombia.,Food & Beverage,15.99,GCB-003,2023-02-01
-10000004,Fitness Pro Resistance Bands,Set of 5 resistance bands for home workouts.,Sports & Outdoors,25.00,FIT-RB-004,2020-11-20
-10000005,Organic Cotton T-Shirt,"Soft, breathable t-shirt made from organic cotton.",Clothing,10.50,ORG-TS-005,2021-05-30
-10000006,Smart Home Hub,Central hub to control all your smart home devices.,Electronics,99.99,SMH-HUB-006,2022-09-15
-10000007,TravelPro Suitcase,Durable and lightweight suitcase for frequent travelers.,Luggage & Bags,120.00,TP-SUIT-007,2021-01-25
-10000008,PetSafe Automatic Feeder,Automatic pet feeder to keep your pet well-fed.,Pet Supplies,75.00,PS-AF-008,2023-06-10
-10000009,Luxury Silk Bed Sheets,High-quality silk bed sheets for a luxurious sleep.,Home & Kitchen,200.00,LS-BS-009,2020-04-18
-10000010,Bluetooth Noise-Cancelling Headphones,Enjoy your music with these noise-cancelling headphones.,Electronics,150.00,BT-NC-010,2022-02-22
-10000011,Eco-Friendly Yoga Mat,Non-toxic and biodegradable yoga mat.,Sports & Outdoors,35.00,EF-YM-011,2021-07-07
-10000012,Gourmet Spice Rack,A collection of premium spices for cooking enthusiasts.,Home & Kitchen,60.00,GSR-012,2023-03-30
-10000013,Digital Smartwatch,Track your fitness and stay connected with this smartwatch.,Electronics,199.99,DSW-013,2020-08-11
-10000014,Organic Herbal Tea,Relax with this blend of organic herbal teas.,Food & Beverage,12.50,OHT-014,2021-12-05
-10000015,Professional Chef Knife,Precision chef knife for professional cooking.,Home & Kitchen,89.99,PCK-015,2022-06-25
-10000016,Camping Tent for 4,Spacious and waterproof tent perfect for camping trips.,Sports & Outdoors,150.00,CT-4-016,2020-05-12
-10000017,Wireless Charging Pad,Fast and efficient wireless charging for your devices.,Electronics,29.99,WCP-017,2021-09-17
-10000018,Leather Office Chair,Ergonomic office chair with premium leather finish.,Office Supplies,250.00,LOC-018,2023-01-20
-10000019,High-Performance Blender,Blend your favorite smoothies and shakes with ease.,Home & Kitchen,180.00,HPB-019,2022-07-22
-10000020,Luxury Scented Candle,Create a calming ambiance with this luxury candle.,Home & Kitchen,30.00,LSC-020,2021-03-03
-10000021,Noise-Cancelling Earbuds,Experience crystal-clear sound with these earbuds.,Electronics,79.99,NCE-021,2022-10-30
-10000022,Deluxe Picnic Basket Set,Enjoy outdoor meals with this complete picnic set.,Home & Kitchen,95.00,DPB-022,2023-04-14
-10000023,Portable Air Purifier,Keep your air clean and fresh wherever you go.,Home & Kitchen,55.00,PAP-023,2021-11-19
-10000024,Bluetooth Speaker,Wireless speaker with superior sound quality.,Electronics,45.00,BT-SP-024,2020-06-08
-10000025,Organic Face Cream,Nourish your skin with this organic face cream.,Beauty & Personal Care,40.00,OFC-025,2023-09-21
-10000001,Eco-Friendly Water Bottle,Reusable and biodegradable water bottle made from bamboo.,Sustainable Goods,15.99,EFWB1234,2023-06-15
-10000002,Noise-Cancelling Headphones,Wireless headphones with active noise cancellation and long battery life.,Electronics,199.99,NCH5678,2022-11-20
-10000003,Organic Cotton T-Shirt,Soft and comfortable t-shirt made from 100% organic cotton.,Apparel,25.00,OCT9012,2021-04-30
-10000004,Smart Home Hub,Centralized control system for all smart home devices.,Smart Home,120.50,SHH3456,2022-08-05
-10000005,Adjustable Standing Desk,Ergonomic desk with adjustable height for sitting or standing positions.,Office Furniture,350.75,ASD7890,2023-01-18
-10000006,Solar-Powered Backpack,Backpack with built-in solar panels to charge devices on the go.,Outdoor Gear,80.00,SPB2345,2023-03-22
-10000007,Gourmet Coffee Beans,Premium coffee beans sourced from sustainable farms.,Beverages,18.50,GCB6789,2021-10-10
-10000008,Fitness Tracker Watch,Wearable fitness tracker with heart rate monitor and GPS.,Fitness,89.99,FTW0123,2022-05-15
-10000009,Wireless Charging Pad,Fast wireless charging pad compatible with most smartphones.,Accessories,29.99,WCP4567,2022-12-01
-10000010,Luxury Silk Bed Sheets,High-quality silk bed sheets for a luxurious sleeping experience.,Home Textiles,150.00,LSB8901,2023-02-25
-10000011,Portable Bluetooth Speaker,Compact speaker with excellent sound quality and Bluetooth connectivity.,Audio,45.99,PBS2347,2021-09-07
-10000012,Eco-Conscious Yoga Mat,Yoga mat made from eco-friendly materials for sustainable workouts.,Fitness,30.00,ECYM5679,2022-02-12
-10000013,Travel Organizer Set,Set of travel organizers to keep your luggage neat and tidy.,Travel,25.00,TOS8903,2021-12-11
-10000014,Organic Herbal Tea,Soothing herbal tea blend to promote relaxation and wellness.,Beverages,12.50,OHT0125,2022-07-20
-10000015,LED Desk Lamp,Energy-efficient LED desk lamp with adjustable brightness.,Office Supplies,40.00,LDL6782,2023-04-05
-10000016,Vegan Protein Powder,Plant-based protein powder for a healthy lifestyle.,Health,22.99,VPP3458,2022-09-30
-10000017,Smart LED Light Bulb,Energy-saving LED bulb with smart home connectivity.,Smart Home,15.00,SLLB7894,2023-06-01
-10000018,Ergonomic Office Chair,Office chair designed for maximum comfort and support.,Office Furniture,220.00,EOC0126,2021-11-18
-10000019,Stainless Steel Cookware Set,Durable and high-quality cookware set for everyday cooking.,Kitchen,180.50,SSCS4569,2022-03-03
-10000020,Electric Toothbrush,Rechargeable electric toothbrush with multiple cleaning modes.,Personal Care,55.00,ETB8906,2023-05-10
-10000021,Camping Tent,Waterproof and windproof tent suitable for all seasons.,Outdoor Gear,120.00,CT1238,2021-05-25
-10000022,High-Performance Laptop,Laptop with powerful processor and ample storage for professionals.,Computers,999.99,HPL4560,2022-06-30
-10000023,Luxury Scented Candle,Hand-poured candle with a soothing lavender fragrance.,Home Decor,20.00,LSC7897,2023-03-08
-10000024,Wireless Earbuds,Compact and stylish earbuds with superior sound quality.,Audio,59.99,WE1231,2021-08-14
-10000025,Digital Drawing Tablet,Tablet designed for artists with a high-resolution display and pressure sensitivity.,Electronics,350.00,DDT4562,2023-07-12
+10000001,Pro-Gamer Mouse,High precision gaming mouse with customizable DPI settings and RGB lighting.,Electronics,59.99,GM-2023-001,2023-05-15
+10000002,Eco-Friendly Water Bottle,Reusable water bottle made from recycled materials with a 1L capacity.,Home & Kitchen,19.95,WB-2023-002,2023-06-01
+10000003,Smart LED Bulb,Energy-efficient LED bulb with smart home integration and adjustable brightness.,Lighting,14.99,LB-2023-003,2023-07-10
+10000004,Wireless Earbuds,Noise-cancelling wireless earbuds with long battery life and quick charge feature.,Audio,89.99,EB-2023-004,2023-03-22
+10000005,Organic Cotton T-Shirt,Comfortable and breathable t-shirt made from 100% organic cotton.,Apparel,29.99,TS-2023-005,2023-08-05
+10000006,Portable Solar Charger,"Compact solar charger for mobile devices, perfect for outdoor activities.",Gadgets,39.99,SC-2023-006,2023-04-18
+10000007,Ergonomic Office Chair,Adjustable office chair designed for comfort and back support during long hours of work.,Furniture,199.99,OC-2023-007,2023-09-12
+10000008,4K Ultra HD TV,55-inch 4K Ultra HD television with smart TV capabilities and HDR support.,Television,499.99,TV-2023-008,2023-02-28
+10000009,Stainless Steel Cookware Set,10-piece stainless steel cookware set with non-stick coating and heat-resistant handles.,Kitchen,149.99,CS-2023-009,2023-07-20
+10000010,Bluetooth Smartwatch,"Feature-rich smartwatch with fitness tracking, heart rate monitor, and Bluetooth connectivity.",Wearables,129.99,SW-2023-010,2023-01-05

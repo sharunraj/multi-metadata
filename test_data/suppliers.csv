@@ -1,101 +1,11 @@
 supplier_id,company_name,contact_name,contact_email,company_phone,country
-100001,Global Tech Supplies,Alice Johnson,alice.johnson@globaltech.com,+1-800-555-0199,United States
-100002,Eco-Friendly Packaging Co.,Robert Green,robert.green@ecopackage.com,+44-20-7946-0958,United Kingdom
-100003,Precision Tools Ltd.,Maria Gonzalez,maria.gonzalez@precisiontools.com,+34-91-555-1234,Spain
-100004,Organic Farms Direct,Liam O'Connor,liam.oconnor@organicfarms.ie,+353-1-555-4321,Ireland
-100005,Asian Textile Partners,Sun Lee,sun.lee@asiatextile.cn,+86-10-5555-8899,China
-100006,Nordic Woodworks,Erik Svensson,erik.svensson@nordicwood.se,+46-8-555-6789,Sweden
-100007,Mediterranean Delights,Sophia Papadopoulos,sophia.papa@meddelights.gr,+30-21-555-9988,Greece
-100008,African Spice Traders,Kwame Nkrumah,kwame.nkrumah@africanspice.co,+27-21-555-6677,South Africa
-100009,South American Coffee Co.,Carlos Mendoza,carlos.mendoza@sacoffee.com,+55-11-5555-3344,Brazil
-100010,Pacific Seafood Suppliers,Hiroshi Tanaka,hiroshi.tanaka@pacificseafood.jp,+81-3-5555-9900,Japan
-100011,Middle East Oil Co.,Amina Al-Farsi,amina.farsi@meoil.com,+971-4-555-1122,United Arab Emirates
-100012,Swiss Precision Instruments,Hans Müller,hans.mueller@swissprecision.ch,+41-31-555-6677,Switzerland
-100013,Indian Textile Exporters,Priya Sharma,priya.sharma@itextiles.in,+91-22-5555-7788,India
-100014,Australian Mining Corp.,Liam Brown,liam.brown@austmining.com,+61-2-5555-6677,Australia
-100015,Canadian Maple Products,Emily Chen,emily.chen@mapleproducts.ca,+1-613-555-3344,Canada
-100016,Italian Wine Merchants,Giovanni Rossi,giovanni.rossi@italianwine.it,+39-06-555-7788,Italy
-100017,German Auto Parts,Anna Schmidt,anna.schmidt@autoparts.de,+49-40-555-9900,Germany
-100018,French Gourmet Foods,Pierre Dubois,pierre.dubois@gourmetfrance.fr,+33-1-555-2233,France
-100019,Mexican Ceramics Co.,Luis Hernandez,luis.hernandez@mexicoceramics.mx,+52-55-5555-4455,Mexico
-100020,Korean Electronics,Jin Woo Kim,jin.kim@koreaelectronics.kr,+82-2-555-3344,South Korea
-100021,Brazilian Footwear Co.,Ana Souza,ana.souza@brazilfootwear.com,+55-21-5555-2233,Brazil
-100022,Russian Steel Works,Dmitri Ivanov,dmitri.ivanov@russiansteel.ru,+7-495-555-6677,Russia
-100023,Singaporean Finance Group,Wei Zhang,wei.zhang@singfinance.sg,+65-6225-5555,Singapore
-100024,New Zealand Wool Exports,Olivia Wilson,olivia.wilson@woolnz.co.nz,+64-4-555-7788,New Zealand
-100025,Chilean Wine Distributors,Ricardo Morales,ricardo.morales@chilewine.cl,+56-2-555-3344,Chile
-100001,Tech Innovations Ltd.,Alice Johnson,alice.johnson@techinnovations.com,+1-212-555-0101,United States
-100002,Green Earth Supplies,Mohammed Ali,mohammed.ali@greenearth.com,+44-20-7946-0958,United Kingdom
-100003,Asia Manufacturing Corp.,Jing Wei,jing.wei@asiamfg.com,+86-10-5555-1234,China
-100004,Oceanic Fisheries Co.,Liam O'Connor,liam.oconnor@oceanicfisheries.ie,+353-1-555-7890,Ireland
-100005,Desert Minerals Inc.,Fatima Hassan,fatima.hassan@desertminerals.ae,+971-4-123-4567,United Arab Emirates
-100006,South American Crafts,Carlos Ramirez,carlos.ramirez@southcrafts.com,+55-11-5555-4321,Brazil
-100007,Nordic Timber Ltd.,Sofia Eriksson,sofia.eriksson@nordictimber.se,+46-8-555-6789,Sweden
-100008,Alps Dairy Products,Luca Rossi,luca.rossi@alpsdairy.it,+39-02-555-1234,Italy
-100009,Aussie Wines Pty Ltd.,Emily Brown,emily.brown@aussiewines.com.au,+61-2-5555-6789,Australia
-100010,Tokyo Electronics,Takashi Yamamoto,takashi.yamamoto@tokyoelectronics.jp,+81-3-5555-1234,Japan
-100011,Gulf Oil Trading Co.,Ahmed Nasser,ahmed.nasser@gulfoiltrading.com,+966-11-555-6789,Saudi Arabia
-100012,Canadian Maple Syrup Inc.,Jason McCarthy,jason.mccarthy@maplesyrup.ca,+1-613-555-7890,Canada
-100013,Mediterranean Olive Oil,Maria Papadopoulos,maria.papadopoulos@medoliveoil.gr,+30-21-555-4321,Greece
-100014,Swiss Precision Instruments,Hans Müller,hans.mueller@swissprecision.ch,+41-31-555-6789,Switzerland
-100015,Eastern Spices Ltd.,Amit Patel,amit.patel@easternspices.in,+91-22-5555-7890,India
-100016,Korean Textiles Corp.,Soo-jin Kim,soo.jin.kim@koreantextiles.co.kr,+82-2-555-1234,South Korea
-100017,Baltic Sea Maritime,Anastasia Ivanova,anastasia.ivanova@balticsea.ru,+7-812-555-4321,Russia
-100018,African Coffee Exporters,Kwame Mensah,kwame.mensah@africancoffee.com,+233-30-555-6789,Ghana
-100019,New Zealand Wool Co.,Oliver Thompson,oliver.thompson@nzwooco.nz,+64-4-555-7890,New Zealand
-100020,Central American Fruits,Isabella Lopez,isabella.lopez@cafruits.com,+506-2-555-4321,Costa Rica
-100021,Scandinavian Furniture AB,Erik Lindholm,erik.lindholm@scandifurniture.se,+46-31-555-1234,Sweden
-100022,Turkish Delight Co.,Nuri Aydin,nuri.aydin@turkishdelight.com.tr,+90-212-555-6789,Turkey
-100023,Mexican Avocados Ltd.,Juan Martinez,juan.martinez@avocados.mx,+52-55-555-7890,Mexico
-100024,Egyptian Cotton Co.,Hassan El-Sayed,hassan.elsayed@egyptiancotton.com.eg,+20-2-555-1234,Egypt
-100025,French Wine Exporters,Claude Dupont,claude.dupont@frenchwine.fr,+33-1-555-4321,France
-102345,Tech Solutions Inc.,Alice Johnson,alice.johnson@techsolutions.com,+1-415-555-0101,United States
-102346,Green Thumb Supplies,Bob Green,bob.green@greenthumb.com,+44-20-7946-0958,United Kingdom
-102347,Asia Textile Ltd.,Chen Wei,chen.wei@asiatextile.cn,+86-21-5550-1234,China
-102348,Gourmet Delights,Diana Franco,diana.franco@gourmetdelights.fr,+33-1-5555-6789,France
-102349,Auto Parts World,Carlos Mendoza,carlos.mendoza@autopartsworld.mx,+52-55-5555-4321,Mexico
-102350,Tech Innovations,Emily Chen,emily.chen@techinnovations.jp,+81-3-5550-6789,Japan
-102351,Fashion Forward,Giulia Rossi,giulia.rossi@fashionforward.it,+39-06-5555-0987,Italy
-102352,Home Comforts,Hans Schmidt,hans.schmidt@homecomforts.de,+49-30-5555-1234,Germany
-102353,Oceanic Traders,Samantha Lee,samantha.lee@oceanictraders.com.au,+61-2-5555-9876,Australia
-102354,Northern Lights,Lars Svensson,lars.svensson@northernlights.se,+46-8-5550-1234,Sweden
-102355,Café Aroma,Juan Martinez,juan.martinez@cafearoma.es,+34-91-5550-9876,Spain
-102356,Pet Paradise,Maya Patel,maya.patel@petparadise.in,+91-22-1234-5678,India
-102357,Mountain Gear,Tom Wilson,tom.wilson@mountaingear.ca,+1-604-555-1234,Canada
-102358,Urban Outfitters,Nina Lopez,nina.lopez@urbanoutfitters.com,+1-212-555-0199,United States
-102359,Savory Bites,Francois Dubois,francois.dubois@savorybites.be,+32-2-5550-4321,Belgium
-102360,Eco-Friendly Goods,Sofia Novak,sofia.novak@ecofriendly.cz,+420-2-5550-9876,Czech Republic
-102361,Tech World,Ahmed Al-Farsi,ahmed.alfarsi@techworld.ae,+971-4-5550-1234,United Arab Emirates
-102362,Fresh Produce Co.,Maria Estrada,maria.estrada@freshproduce.co,+63-2-5550-4321,Philippines
-102363,Solar Energy Solutions,Peter Brown,peter.brown@solarenergy.co.za,+27-11-5550-9876,South Africa
-102364,Artistic Creations,Elena Petrov,elena.petrov@artisticcreations.ru,+7-495-555-0199,Russia
-102365,Gourmet Foods,Angela Kim,angela.kim@gourmetfoods.kr,+82-2-5550-1234,South Korea
-102366,Tech Hub,Martin Fischer,martin.fischer@techhub.at,+43-1-5550-4321,Austria
-102367,Nature's Best,Hannah O'Connor,hannah.oconnor@naturesbest.ie,+353-1-5550-9876,Ireland
-102368,Luxury Living,Isabella Silva,isabella.silva@luxuryliving.br,+55-21-5550-1234,Brazil
-102369,Digital Wave,Ethan Nguyen,ethan.nguyen@digitalwave.vn,+84-28-5550-4321,Vietnam
-100001,Tech Innovators Inc.,Alice Johnson,alice.johnson@techinnovators.com,+1-415-555-0101,United States
-100002,Greenfield Supplies,Michael Green,michael.green@greenfieldsupplies.co.uk,+44-20-7946-0958,United Kingdom
-100003,Konnichiwa Electronics,Hiroshi Tanaka,hiroshi.t@konnichiwa.co.jp,+81-3-1234-5678,Japan
-100004,Aussie Outback Goods,Emily White,emily.white@aussieoutback.com.au,+61-2-5550-1234,Australia
-100005,Nordic Traders,Lars Svensson,lars.svensson@nordictraders.se,+46-8-555-12345,Sweden
-100006,Café de Paris,Sophie Martin,sophie.martin@cafedeparis.fr,+33-1-2345-6789,France
-100007,Alpine Sporting Goods,Hans Meier,hans.meier@alpinesports.ch,+41-31-555-6789,Switzerland
-100008,Tuscany Delights,Giulia Rossi,giulia.rossi@tuscanydelights.it,+39-055-1234567,Italy
-100009,Samba Tech,Carlos Souza,carlos.souza@sambatech.com.br,+55-11-5555-6789,Brazil
-100010,Maple Leaf Foods,Laura Brown,laura.brown@mapleleaffoods.ca,+1-416-555-7890,Canada
-100011,Seoul Electronics,Min-Joon Kim,minjoon.kim@seoulelectronics.kr,+82-2-555-1234,South Korea
-100012,Iberian Textiles,Ana García,ana.garcia@iberiantextiles.es,+34-91-555-6789,Spain
-100013,Berlin Builders,Fritz Müller,fritz.mueller@berlinbuilders.de,+49-30-555-0101,Germany
-100014,Dubai Luxury Goods,Fatima Al-Maktoum,fatima.almaktoum@dubailuxury.ae,+971-4-555-1234,United Arab Emirates
-100015,Royal Indian Spices,Rajesh Patel,rajesh.patel@royalindian.com,+91-22-555-6789,India
-100016,Russian Steel Corp,Olga Ivanova,olga.ivanova@russiansteel.ru,+7-495-555-1234,Russia
-100017,South African Wines,Dineo Ndlovu,dineo.ndlovu@sawines.co.za,+27-21-555-6789,South Africa
-100018,Mexican Ceramics,Luis Martinez,luis.martinez@mexicanceramics.mx,+52-55-5555-6789,Mexico
-100019,Icelandic Cod Supply,Björn Jónsson,bjorn.jonsson@icelandiccod.is,+354-5-555-6789,Iceland
-100020,Turkish Delight Co.,Ebru Yilmaz,ebru.yilmaz@turkishdelight.com.tr,+90-212-555-1234,Turkey
-100021,Argentine Beef Ltd.,Juan Perez,juan.perez@argentinebeef.com.ar,+54-11-5555-1234,Argentina
-100022,Szechuan Spices,Li Wei,li.wei@szechuan.com.cn,+86-10-5555-6789,China
-100023,New Zealand Wool,James Thompson,james.thompson@nzwoool.co.nz,+64-9-555-6789,New Zealand
-100024,Dutch Flowers,Anouk de Vries,anouk.devries@dutchflowers.nl,+31-20-555-6789,Netherlands
-100025,Thai Silk Co.,Somsak Chaiyasit,somsak.chaiyasit@thaisilk.co.th,+66-2-555-1234,Thailand
+100231,Tech Innovations Inc.,Alice Johnson,alice.johnson@techinnovations.com,+1-415-555-0134,United States
+100232,Global Textiles Ltd.,Rajesh Kumar,rajesh.kumar@globaltextiles.in,+91-98765-43210,India
+100233,Green Earth Supplies,Emma White,emma.white@greenearth.com,+44-20-7946-0958,United Kingdom
+100234,Pan-Pacific Logistics,Hiroshi Tanaka,hiroshi.tanaka@panpacific.co.jp,+81-3-1234-5678,Japan
+100235,Nordic Furniture Co.,Sofia Bergstrom,sofia.bergstrom@nordicfurniture.se,+46-8-555-1234,Sweden
+100236,Aussie Fresh Foods,Liam O'Connor,liam.oconnor@aussiefresh.com.au,+61-2-9876-1234,Australia
+100237,Mediterranean Oil Exporters,Giulia Romano,giulia.romano@medoil.it,+39-06-1234-5678,Italy
+100238,Canadian Timber Holdings,Ethan Thompson,ethan.thompson@canadiantimber.ca,+1-604-555-0199,Canada
+100239,Brazilian Coffee Co.,Camila Silva,camila.silva@braziliancoffee.com.br,+55-21-5555-1234,Brazil
+100240,Alpine Sports Gear,Lukas Meier,lukas.meier@alpinesports.ch,+41-31-555-6789,Switzerland
